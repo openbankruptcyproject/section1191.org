@@ -11,23 +11,23 @@
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Section 1191 -- Subchapter V Plan Confirmation | section1191.org</title>
-<meta name="description" content="Guide to Section 1191: consensual and cramdown confirmation in Subchapter V small business cases under the SBRA.">
-<meta name="keywords" content="section 1191, subchapter v, small business bankruptcy, SBRA, consensual confirmation, cramdown, 1191(a), 1191(b)">
-<link rel="canonical" href="https://section1191.org/">
-<link rel="alternate" hreflang="en" href="https://section1191.org/">
+<title>Section 1191(b) Cramdown -- Nonconsensual Subchapter V Plan | section1191.org</title>
+<meta name="description" content="Nonconsensual plan confirmation under Section 1191(b). Projected disposable income commitment, fair and equitable test, and cramdown requirements.">
+<meta name="keywords" content="section 1191(b), cramdown, nonconsensual, subchapter v, projected disposable income, fair and equitable">
+<link rel="canonical" href="https://section1191.org/cramdown.html">
+<link rel="alternate" hreflang="en" href="https://section1191.org/cramdown.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
-<meta name="last-modified" content="2026-03-27">
+<meta name="last-modified" content="2026-03-28">
 
-<meta property="og:title" content="Section 1191 -- Subchapter V Plan Confirmation">
-<meta property="og:description" content="Guide to Section 1191: consensual and cramdown confirmation in Subchapter V small business cases under the SBRA.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://section1191.org/">
+<meta property="og:title" content="Section 1191(b) Cramdown -- Nonconsensual Subchapter V Plan">
+<meta property="og:description" content="Nonconsensual plan confirmation under Section 1191(b). Projected disposable income commitment, fair and equitable test, and cramdown requirements.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://section1191.org/cramdown.html">
 <meta property="og:site_name" content="section1191.org">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Section 1191 -- Subchapter V Plan Confirmation">
-<meta name="twitter:description" content="Guide to Section 1191: consensual and cramdown confirmation in Subchapter V small business cases under the SBRA.">
+<meta name="twitter:title" content="Section 1191(b) Cramdown -- Nonconsensual Subchapter V Plan">
+<meta name="twitter:description" content="Nonconsensual plan confirmation under Section 1191(b). Projected disposable income commitment, fair and equitable test, and cramdown requirements.">
 
 <script type="application/ld+json">
 {
@@ -44,12 +44,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "What is Section 1191?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Section 1191 governs plan confirmation in Subchapter V. Under 1191(a), all impaired classes accept (consensual). Under 1191(b), cramdown over objection if projected disposable income is committed."}},
-    {"@type": "Question", "name": "What is the difference between 1191(a) and 1191(b)?",
-     "acceptedAnswer": {"@type": "Answer", "text": "1191(a) is consensual -- all impaired classes accept. 1191(b) is cramdown -- the plan commits all projected disposable income for 3-5 years. Discharge timing differs."}},
-    {"@type": "Question", "name": "Who qualifies for Subchapter V?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Small business debtors with aggregate debts not exceeding $7,500,000, at least 50% from business activities."}}
+    {"@type": "Question", "name": "What is cramdown in Subchapter V?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Cramdown under Section 1191(b) allows the court to confirm a plan over creditor objection if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly."}},
+    {"@type": "Question", "name": "How long must the debtor commit income?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The plan must commit all projected disposable income for a period of 3 to 5 years, as proposed by the debtor or ordered by the court."}},
+    {"@type": "Question", "name": "How does this differ from Chapter 13 cramdown?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Subchapter V uses actual projected income and reasonable expenses, not the mechanical means test formula. There is no above-median/below-median distinction."}}
   ]
 }
 </script>
@@ -90,19 +90,6 @@
   .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
   .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
   .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
-  .page-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
-  .page-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; transition: border-color 0.2s; }
-  .page-card:hover { border-color: var(--accent); }
-  .page-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.5rem; }
-  .page-card p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
-  .page-card a { font-size: 0.9rem; font-weight: 600; }
-  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
-  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
-  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
-  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
-  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; }
-  .cta-links .primary-btn { background: #238636; color: #fff; } .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
-  .cta-links .secondary-btn { background: var(--border); color: var(--text); } .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
   .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
   .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
   .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
@@ -113,7 +100,6 @@
     nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
-    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
     .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
   }
 </style>
@@ -126,9 +112,9 @@
   <a href="/" class="site-name">section1191.org</a>
   <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
-    <a href="/" class="active">Home</a>
+    <a href="/">Home</a>
     <a href="/consensual-plan.html">Consensual Plan</a>
-    <a href="/cramdown.html">Cramdown</a>
+    <a href="/cramdown.html" class="active">Cramdown</a>
     <a href="/voting.html">Voting</a>
     <a href="/plan-content.html">Plan Content</a>
     <a href="/discharge.html">Discharge</a>
@@ -136,51 +122,55 @@
 </nav>
 
 <header>
-  <h1>Section 1191 -- Subchapter V Plan Confirmation</h1>
-  <p class="subtitle">Consensual and nonconsensual plan confirmation in small business bankruptcy. No absolute priority rule.</p>
+  <h1>Cramdown -- Section 1191(b)</h1>
+  <p class="subtitle">When creditors reject the plan, the court can still confirm if the debtor commits all projected disposable income for 3-5 years.</p>
 </header>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>What Is Section 1191?</h2>
-    <p>Section 1191, added by the Small Business Reorganization Act of 2019, governs <strong>plan confirmation in Subchapter V</strong> cases. Two paths: consensual (1191(a)) and cramdown (1191(b)).</p>
+    <h2>When Cramdown Applies</h2>
+    <p>If one or more impaired classes reject the plan, consensual confirmation under 1191(a) is unavailable. The debtor must then seek confirmation under <strong>Section 1191(b)</strong> -- the cramdown provision.</p>
+    <p>Cramdown does not require any class to accept. The court confirms the plan over all objections if the requirements are met. However, at least one impaired class must have been given the opportunity to vote.</p>
   </div>
+
   <div class="content-section">
-    <h2>1191(a) -- Consensual Confirmation</h2>
-    <p>All impaired classes accept. The absolute priority rule does not apply -- the debtor retains equity even if unsecured creditors are not paid in full.</p>
-    <div class="statute-box"><p><strong>Key advantage:</strong> Small business owners keep ownership without paying unsecured creditors in full.</p></div>
-  </div>
-  <div class="content-section">
-    <h2>1191(b) -- Cramdown</h2>
-    <p>If impaired classes reject, the court confirms if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly.</p>
-    <p><a href="https://section1192.org">Detailed cramdown guide at section1192.org &rarr;</a></p>
-    <div class="warning-box"><p><strong>Discharge timing:</strong> 1191(a): discharge upon confirmation. 1191(b): discharge after all payments completed.</p></div>
-  </div>
-  <div class="content-section">
-    <h2>Who Qualifies?</h2>
+    <h2>The Disposable Income Test</h2>
+    <p>The central requirement of 1191(b) cramdown is that the plan must provide that <strong>all projected disposable income</strong> received during the 3-to-5-year period will be applied to plan payments.</p>
+    <p>"Projected disposable income" means income less amounts reasonably necessary for:</p>
     <ul>
-      <li>Aggregate noncontingent liquidated debts not exceeding <strong>$7,500,000</strong></li>
-      <li>At least 50% from commercial or business activities</li>
-      <li>Must be engaged in commercial or business activities</li>
+      <li>Maintenance or support of the debtor or dependents</li>
+      <li>Domestic support obligations</li>
+      <li>Continuation, preservation, or operation of the business</li>
+    </ul>
+    <div class="statute-box"><p><strong>Key difference from Chapter 13:</strong> Subchapter V does not use the means test or IRS expense standards. Courts look at actual projected income and actual reasonable expenses. This gives the court more flexibility and often produces a more realistic budget. See <a href="https://section1192.org/disposable-income.html">detailed calculation guide</a>.</p></div>
+  </div>
+
+  <div class="content-section">
+    <h2>Fair and Equitable Standard</h2>
+    <p>The plan must be "fair and equitable" with respect to each impaired class that has not accepted. For Subchapter V, this means:</p>
+    <ul>
+      <li><strong>Secured claims:</strong> The plan provides for retention of the lien and deferred cash payments totaling at least the allowed secured claim amount</li>
+      <li><strong>Unsecured claims:</strong> The plan commits all projected disposable income (no absolute priority rule)</li>
+      <li><strong>No unfair discrimination:</strong> The plan does not discriminate unfairly among classes of similar priority</li>
     </ul>
   </div>
+
   <div class="content-section">
-    <h2>Explore This Site</h2>
-    <div class="page-grid">
-      <div class="page-card"><h3>Consensual Plan</h3><p>1191(a) confirmation when all classes accept.</p><a href="/consensual-plan.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Cramdown</h3><p>1191(b) nonconsensual confirmation requirements.</p><a href="/cramdown.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Voting</h3><p>How creditor classes vote. Acceptance thresholds.</p><a href="/voting.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Plan Content</h3><p>Section 1190 mandatory provisions.</p><a href="/plan-content.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Discharge</h3><p>When discharge occurs. 1192 scope differences.</p><a href="/discharge.html">Read more &rarr;</a></div>
-    </div>
+    <h2>Discharge Under Cramdown</h2>
+    <p>The cramdown discharge is <strong>narrower and later</strong> than the consensual discharge:</p>
+    <ul>
+      <li><strong>Timing:</strong> Discharge enters after the debtor completes all plan payments, not upon confirmation</li>
+      <li><strong>Scope:</strong> Section 523(a) exceptions apply -- debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge</li>
+    </ul>
+    <div class="warning-box"><p><strong>This is a significant disadvantage of cramdown.</strong> Under consensual confirmation, the debtor gets an immediate, broad discharge. Under cramdown, the debtor must complete years of payments and still faces exceptions to discharge. Negotiate for consensual acceptance whenever possible.</p></div>
+    <p>For detailed analysis: <a href="https://section1192.org">section1192.org -- Subchapter V cramdown guide</a></p>
   </div>
 
   <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
     <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1192.org" style="color:#58a6ff">section1192.org</a> -- Subchapter V cramdown</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.org" style="color:#58a6ff">1328f.org</a> -- Bankruptcy research platform</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">howtofilebankruptcy.org</a> -- Step-by-step filing guide</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1192.org" style="color:#58a6ff">section1192.org -- Cramdown deep dive</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://bankruptcyhardship.org" style="color:#58a6ff">bankruptcyhardship.org -- Hardship discharge</a></p>
   </div>
 
 </main>
@@ -190,19 +180,13 @@
   <p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)</p>
   <p>Real information, no strings.</p>
   <div class="links">
-    <a href="https://1328f.com">1328f.com</a>
-    <a href="https://1328f.org">1328f.org</a>
     <a href="https://automaticstay.org">automaticstay.org</a>
     <a href="https://meanstest.org">meanstest.org</a>
     <a href="https://341meeting.org">341meeting.org</a>
     <a href="https://523a.org">523a.org</a>
     <a href="https://109g.org">109g.org</a>
     <a href="https://727a8.com">727a8.com</a>
-    <a href="https://relieffromstay.org">relieffromstay.org</a>
-    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
     <a href="https://prosedebtors.org">prosedebtors.org</a>
-    <a href="https://canifileagain.org">canifileagain.org</a>
-    <a href="https://garnishedwages.org">garnishedwages.org</a>
     <a href="https://howtofilebankruptcy.org">howtofilebankruptcy.org</a>
     <a href="https://ko-fi.com/ilikemath9999">Ko-fi</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
@@ -211,7 +195,7 @@
 </footer>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
   <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
   <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>

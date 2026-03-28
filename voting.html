@@ -11,23 +11,23 @@
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Section 1191 -- Subchapter V Plan Confirmation | section1191.org</title>
-<meta name="description" content="Guide to Section 1191: consensual and cramdown confirmation in Subchapter V small business cases under the SBRA.">
-<meta name="keywords" content="section 1191, subchapter v, small business bankruptcy, SBRA, consensual confirmation, cramdown, 1191(a), 1191(b)">
-<link rel="canonical" href="https://section1191.org/">
-<link rel="alternate" hreflang="en" href="https://section1191.org/">
+<title>Subchapter V Plan Voting -- How Creditors Vote | section1191.org</title>
+<meta name="description" content="How creditors vote on a Subchapter V plan. Impaired vs unimpaired classes, acceptance thresholds, and the impact of voting on discharge scope.">
+<meta name="keywords" content="subchapter v voting, creditor voting, plan acceptance, impaired class, unimpaired, two-thirds, one-half">
+<link rel="canonical" href="https://section1191.org/voting.html">
+<link rel="alternate" hreflang="en" href="https://section1191.org/voting.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
-<meta name="last-modified" content="2026-03-27">
+<meta name="last-modified" content="2026-03-28">
 
-<meta property="og:title" content="Section 1191 -- Subchapter V Plan Confirmation">
-<meta property="og:description" content="Guide to Section 1191: consensual and cramdown confirmation in Subchapter V small business cases under the SBRA.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://section1191.org/">
+<meta property="og:title" content="Subchapter V Plan Voting -- How Creditors Vote">
+<meta property="og:description" content="How creditors vote on a Subchapter V plan. Impaired vs unimpaired classes, acceptance thresholds, and the impact of voting on discharge scope.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://section1191.org/voting.html">
 <meta property="og:site_name" content="section1191.org">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Section 1191 -- Subchapter V Plan Confirmation">
-<meta name="twitter:description" content="Guide to Section 1191: consensual and cramdown confirmation in Subchapter V small business cases under the SBRA.">
+<meta name="twitter:title" content="Subchapter V Plan Voting -- How Creditors Vote">
+<meta name="twitter:description" content="How creditors vote on a Subchapter V plan. Impaired vs unimpaired classes, acceptance thresholds, and the impact of voting on discharge scope.">
 
 <script type="application/ld+json">
 {
@@ -44,12 +44,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "What is Section 1191?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Section 1191 governs plan confirmation in Subchapter V. Under 1191(a), all impaired classes accept (consensual). Under 1191(b), cramdown over objection if projected disposable income is committed."}},
-    {"@type": "Question", "name": "What is the difference between 1191(a) and 1191(b)?",
-     "acceptedAnswer": {"@type": "Answer", "text": "1191(a) is consensual -- all impaired classes accept. 1191(b) is cramdown -- the plan commits all projected disposable income for 3-5 years. Discharge timing differs."}},
-    {"@type": "Question", "name": "Who qualifies for Subchapter V?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Small business debtors with aggregate debts not exceeding $7,500,000, at least 50% from business activities."}}
+    {"@type": "Question", "name": "What is the acceptance threshold?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Each class accepts if at least two-thirds in dollar amount and more than one-half in number of the voting claims in that class vote yes."}},
+    {"@type": "Question", "name": "What does impaired mean?",
+     "acceptedAnswer": {"@type": "Answer", "text": "A class is impaired if the plan modifies or alters the legal, equitable, or contractual rights of the claims in that class. Unimpaired classes are deemed to accept and do not vote."}},
+    {"@type": "Question", "name": "What happens if a class rejects?",
+     "acceptedAnswer": {"@type": "Answer", "text": "If any impaired class rejects, the debtor cannot achieve consensual confirmation under 1191(a) and must seek cramdown under 1191(b), which has a narrower discharge."}}
   ]
 }
 </script>
@@ -90,19 +90,6 @@
   .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
   .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
   .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
-  .page-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
-  .page-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; transition: border-color 0.2s; }
-  .page-card:hover { border-color: var(--accent); }
-  .page-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.5rem; }
-  .page-card p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
-  .page-card a { font-size: 0.9rem; font-weight: 600; }
-  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
-  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
-  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
-  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
-  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; }
-  .cta-links .primary-btn { background: #238636; color: #fff; } .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
-  .cta-links .secondary-btn { background: var(--border); color: var(--text); } .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
   .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
   .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
   .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
@@ -113,7 +100,6 @@
     nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
-    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
     .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
   }
 </style>
@@ -126,61 +112,74 @@
   <a href="/" class="site-name">section1191.org</a>
   <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
-    <a href="/" class="active">Home</a>
+    <a href="/">Home</a>
     <a href="/consensual-plan.html">Consensual Plan</a>
     <a href="/cramdown.html">Cramdown</a>
-    <a href="/voting.html">Voting</a>
+    <a href="/voting.html" class="active">Voting</a>
     <a href="/plan-content.html">Plan Content</a>
     <a href="/discharge.html">Discharge</a>
   </div>
 </nav>
 
 <header>
-  <h1>Section 1191 -- Subchapter V Plan Confirmation</h1>
-  <p class="subtitle">Consensual and nonconsensual plan confirmation in small business bankruptcy. No absolute priority rule.</p>
+  <h1>Subchapter V Plan Voting</h1>
+  <p class="subtitle">How classes of creditors vote on a Subchapter V plan. Acceptance thresholds, impairment, and strategic considerations.</p>
 </header>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>What Is Section 1191?</h2>
-    <p>Section 1191, added by the Small Business Reorganization Act of 2019, governs <strong>plan confirmation in Subchapter V</strong> cases. Two paths: consensual (1191(a)) and cramdown (1191(b)).</p>
-  </div>
-  <div class="content-section">
-    <h2>1191(a) -- Consensual Confirmation</h2>
-    <p>All impaired classes accept. The absolute priority rule does not apply -- the debtor retains equity even if unsecured creditors are not paid in full.</p>
-    <div class="statute-box"><p><strong>Key advantage:</strong> Small business owners keep ownership without paying unsecured creditors in full.</p></div>
-  </div>
-  <div class="content-section">
-    <h2>1191(b) -- Cramdown</h2>
-    <p>If impaired classes reject, the court confirms if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly.</p>
-    <p><a href="https://section1192.org">Detailed cramdown guide at section1192.org &rarr;</a></p>
-    <div class="warning-box"><p><strong>Discharge timing:</strong> 1191(a): discharge upon confirmation. 1191(b): discharge after all payments completed.</p></div>
-  </div>
-  <div class="content-section">
-    <h2>Who Qualifies?</h2>
+    <h2>How Voting Works</h2>
+    <p>After the debtor files a plan, creditors in impaired classes are given the opportunity to vote. In Subchapter V, no disclosure statement is required -- the plan itself serves as the solicitation document.</p>
+    <p>Each impaired class votes separately. A class accepts the plan if:</p>
     <ul>
-      <li>Aggregate noncontingent liquidated debts not exceeding <strong>$7,500,000</strong></li>
-      <li>At least 50% from commercial or business activities</li>
-      <li>Must be engaged in commercial or business activities</li>
+      <li><strong>Two-thirds in dollar amount</strong> of the claims that actually vote are in favor</li>
+      <li><strong>More than one-half in number</strong> of the claims that actually vote are in favor</li>
     </ul>
+    <p>Both thresholds must be met for the class to accept. Only claims that actually cast ballots are counted -- non-voting creditors are excluded from the calculation.</p>
   </div>
+
   <div class="content-section">
-    <h2>Explore This Site</h2>
-    <div class="page-grid">
-      <div class="page-card"><h3>Consensual Plan</h3><p>1191(a) confirmation when all classes accept.</p><a href="/consensual-plan.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Cramdown</h3><p>1191(b) nonconsensual confirmation requirements.</p><a href="/cramdown.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Voting</h3><p>How creditor classes vote. Acceptance thresholds.</p><a href="/voting.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Plan Content</h3><p>Section 1190 mandatory provisions.</p><a href="/plan-content.html">Read more &rarr;</a></div>
-      <div class="page-card"><h3>Discharge</h3><p>When discharge occurs. 1192 scope differences.</p><a href="/discharge.html">Read more &rarr;</a></div>
-    </div>
+    <h2>Impaired vs. Unimpaired Classes</h2>
+    <p>A class is <strong>impaired</strong> if the plan modifies any of its legal, equitable, or contractual rights. Common forms of impairment include:</p>
+    <ul>
+      <li>Reducing the amount owed</li>
+      <li>Extending the payment timeline</li>
+      <li>Reducing the interest rate</li>
+      <li>Converting secured debt to unsecured</li>
+    </ul>
+    <p>A class is <strong>unimpaired</strong> if the plan leaves all rights unchanged (or cures defaults and reinstates the original terms). Unimpaired classes are conclusively presumed to have accepted the plan -- they do not vote.</p>
+    <div class="yellow-box"><p><strong>Strategic note:</strong> If only one class is impaired and that class accepts, the plan qualifies for consensual confirmation under 1191(a) with its broader discharge. Plan classification is therefore a critical strategic decision.</p></div>
+  </div>
+
+  <div class="content-section">
+    <h2>Classification of Claims</h2>
+    <p>The debtor places claims into classes. Each class must contain claims that are "substantially similar" to each other. Common classifications include:</p>
+    <ul>
+      <li>Secured claims (often one class per secured creditor)</li>
+      <li>Priority unsecured claims (taxes, domestic support)</li>
+      <li>General unsecured claims</li>
+      <li>Equity interests</li>
+    </ul>
+    <p>The debtor cannot "gerrymander" classes to manipulate the vote -- placing friendly creditors in one class and hostile creditors in another to ensure acceptance. Courts scrutinize classification for good faith.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Impact of Voting on Discharge</h2>
+    <p>Voting outcomes directly affect the debtor's discharge:</p>
+    <table>
+      <tr><th scope="col">Outcome</th><th scope="col">Confirmation Path</th><th scope="col">Discharge Timing</th><th scope="col">Discharge Scope</th></tr>
+      <tr><td>All impaired classes accept</td><td>1191(a) consensual</td><td>Upon confirmation</td><td>Broad (standard Ch. 11)</td></tr>
+      <tr><td>Any impaired class rejects</td><td>1191(b) cramdown</td><td>After all payments</td><td>Narrower -- 523(a) applies</td></tr>
+    </table>
+    <div class="warning-box"><p><strong>Critical:</strong> A single rejecting class forces the debtor into cramdown, delaying discharge by 3-5 years and narrowing its scope. This makes creditor negotiation essential before the voting deadline.</p></div>
+    <p>See also: <a href="/consensual-plan.html">Consensual confirmation</a> | <a href="/cramdown.html">Cramdown requirements</a></p>
   </div>
 
   <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
     <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1192.org" style="color:#58a6ff">section1192.org</a> -- Subchapter V cramdown</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.org" style="color:#58a6ff">1328f.org</a> -- Bankruptcy research platform</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">howtofilebankruptcy.org</a> -- Step-by-step filing guide</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1192.org" style="color:#58a6ff">section1192.org -- Cramdown details</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://chapter13plan.org" style="color:#58a6ff">chapter13plan.org -- Chapter 13 plan voting</a></p>
   </div>
 
 </main>
@@ -190,19 +189,13 @@
   <p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)</p>
   <p>Real information, no strings.</p>
   <div class="links">
-    <a href="https://1328f.com">1328f.com</a>
-    <a href="https://1328f.org">1328f.org</a>
     <a href="https://automaticstay.org">automaticstay.org</a>
     <a href="https://meanstest.org">meanstest.org</a>
     <a href="https://341meeting.org">341meeting.org</a>
     <a href="https://523a.org">523a.org</a>
     <a href="https://109g.org">109g.org</a>
     <a href="https://727a8.com">727a8.com</a>
-    <a href="https://relieffromstay.org">relieffromstay.org</a>
-    <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
     <a href="https://prosedebtors.org">prosedebtors.org</a>
-    <a href="https://canifileagain.org">canifileagain.org</a>
-    <a href="https://garnishedwages.org">garnishedwages.org</a>
     <a href="https://howtofilebankruptcy.org">howtofilebankruptcy.org</a>
     <a href="https://ko-fi.com/ilikemath9999">Ko-fi</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
@@ -211,7 +204,7 @@
 </footer>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
   <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
   <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
