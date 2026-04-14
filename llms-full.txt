@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Section 1191(a) -- Consensual Subchapter V Plan Confirmation
+## Section 1191(a) - Consensual Subchapter V Plan Confirmation
 Source: https://section1191.org/consensual-plan.html
 
 Skip to main content
@@ -21,15 +21,17 @@ Voting
 Plan Content
 Discharge
 
-Consensual Plan Confirmation -- Section 1191(a)
+Consensual Plan Confirmation - Section 1191(a)
 
 When all impaired classes accept, the plan is confirmed consensually. The debtor retains equity without paying unsecured creditors in full.
+
+Home›Section 1191 Plan Confirmation›Consensual Plan Confirmation - Section 1191(a)
 
 How Consensual Confirmation Works
 
 Under Section 1191(a), a Subchapter V plan is confirmed consensually when every impaired class of claims has accepted the plan. "Acceptance" means that holders of at least two-thirds in amount and more than one-half in number of the allowed claims in each class have voted to accept.
 
-Classes that are not impaired -- meaning their legal, equitable, and contractual rights are not altered by the plan -- are deemed to have accepted and do not vote.
+Classes that are not impaired - meaning their legal, equitable, and contractual rights are not altered by the plan - are deemed to have accepted and do not vote.
 
 Key requirement: The plan must satisfy Section 1129(a)(1) through (a)(16), except that no disclosure statement is required (Section 1181(b)). This is one of the major cost savings of Subchapter V.
 
@@ -39,17 +41,17 @@ In traditional Chapter 11, the absolute priority rule requires that senior class
 
 Subchapter V eliminates this barrier. Under Section 1181(a), the absolute priority rule of Section 1129(b)(2)(B)(ii) does not apply. This means the debtor retains ownership even if unsecured creditors receive less than full payment.
 
-This is the key advantage of Subchapter V. Small business owners can keep their businesses while restructuring debt -- without the impossible requirement of paying all unsecured creditors 100 cents on the dollar.
+This is the key advantage of Subchapter V. Small business owners can keep their businesses while restructuring debt - without the impossible requirement of paying all unsecured creditors 100 cents on the dollar.
 
 Discharge Upon Confirmation
 
-Under 1191(a) consensual confirmation, the debtor receives a broad discharge upon confirmation of the plan. This is the same timing as traditional Chapter 11 -- the discharge enters when the confirmation order becomes effective.
+Under 1191(a) consensual confirmation, the debtor receives a broad discharge upon confirmation of the plan. This is the same timing as traditional Chapter 11 - the discharge enters when the confirmation order becomes effective.
 
 The 1191(a) discharge is broader than the cramdown discharge under 1191(b)/1192:
 
-1191(a): Standard Chapter 11 discharge scope -- most debts discharged
+1191(a): Standard Chapter 11 discharge scope - most debts discharged
 
-1191(b): Narrower scope -- Section 523(a) exceptions apply (fraud, willful injury, taxes, student loans, etc.)
+1191(b): Narrower scope - Section 523(a) exceptions apply (fraud, willful injury, taxes, student loans, etc.)
 
 Important distinction: Because the discharge scope differs significantly, debtors should make every effort to achieve consensual confirmation. If even one impaired class rejects, the plan must proceed under 1191(b) cramdown with its narrower discharge. See section1192.org for details.
 
@@ -65,7 +67,7 @@ The plan was proposed in good faith
 
 Payments for services are subject to court approval
 
-The plan is feasible -- the debtor will likely be able to make all payments
+The plan is feasible - the debtor will likely be able to make all payments
 
 All fees and charges have been paid
 
@@ -83,9 +85,9 @@ Subscribe
 
 Related Resources
 
-section1192.org -- Cramdown details
+section1192.org - Cramdown details
 
-chapter13plan.org -- Chapter 13 plan guide
+chapter13plan.org - Chapter 13 plan guide
 
 Related Guides
 
@@ -102,10 +104,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -202,7 +204,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1191(b) Cramdown -- Nonconsensual Subchapter V Plan
+## Section 1191(b) Cramdown - Nonconsensual Subchapter V Plan
 Source: https://section1191.org/cramdown.html
 
 Skip to main content
@@ -217,13 +219,15 @@ Voting
 Plan Content
 Discharge
 
-Cramdown -- Section 1191(b)
+Cramdown - Section 1191(b)
 
 When creditors reject the plan, the court can still confirm if the debtor commits all projected disposable income for 3-5 years.
 
+Home›Section 1191 Plan Confirmation›Cramdown - Section 1191(b)
+
 When Cramdown Applies
 
-If one or more impaired classes reject the plan, consensual confirmation under 1191(a) is unavailable. The debtor must then seek confirmation under Section 1191(b) -- the cramdown provision.
+If one or more impaired classes reject the plan, consensual confirmation under 1191(a) is unavailable. The debtor must then seek confirmation under Section 1191(b) - the cramdown provision.
 
 Cramdown does not require any class to accept. The court confirms the plan over all objections if the requirements are met. However, at least one impaired class must have been given the opportunity to vote.
 
@@ -257,11 +261,11 @@ The cramdown discharge is narrower and later than the consensual discharge:
 
 Timing: Discharge enters after the debtor completes all plan payments, not upon confirmation
 
-Scope: Section 523(a) exceptions apply -- debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge
+Scope: Section 523(a) exceptions apply - debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge
 
 This is a significant disadvantage of cramdown. Under consensual confirmation, the debtor gets an immediate, broad discharge. Under cramdown, the debtor must complete years of payments and still faces exceptions to discharge. Negotiate for consensual acceptance whenever possible.
 
-For detailed analysis: section1192.org -- Subchapter V cramdown guide
+For detailed analysis: section1192.org - Subchapter V cramdown guide
 
 Stay updated on new datasets and research findings
 
@@ -271,9 +275,9 @@ Subscribe
 
 Related Resources
 
-section1192.org -- Cramdown deep dive
+section1192.org - Cramdown deep dive
 
-bankruptcyhardship.org -- Hardship discharge
+bankruptcyhardship.org - Hardship discharge
 
 Related Guides
 
@@ -290,10 +294,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -390,7 +394,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Discharge -- Section 1192 Timing and Scope
+## Subchapter V Discharge - Section 1192 Timing and Scope
 Source: https://section1191.org/discharge.html
 
 Skip to main content
@@ -409,35 +413,37 @@ Subchapter V Discharge Timing
 
 When the discharge occurs depends on whether the plan was confirmed consensually or through cramdown.
 
+Home›Section 1191 Plan Confirmation›Subchapter V Discharge Timing
+
 Two Paths to Discharge
 
 The Subchapter V discharge depends entirely on how the plan was confirmed:
 
 Confirmation PathDischarge TimingDischarge Scope
 
-1191(a) -- ConsensualUpon confirmationBroad (standard Ch. 11 scope)
+1191(a) - ConsensualUpon confirmationBroad (standard Ch. 11 scope)
 
-1191(b) -- CramdownAfter completing all plan paymentsNarrower -- Section 523(a) exceptions apply
+1191(b) - CramdownAfter completing all plan paymentsNarrower - Section 523(a) exceptions apply
 
 This difference creates a powerful incentive for debtors to negotiate with creditors for consensual acceptance. An early, broad discharge is far preferable to waiting 3-5 years for a narrower discharge.
 
-Section 1192 -- The Cramdown Discharge
+Section 1192 - The Cramdown Discharge
 
 Section 1192 governs the discharge in cramdown cases. After the debtor completes all payments required under the plan, the court grants a discharge of all debts provided for in the plan except those listed in Section 523(a).
 
 Debts that survive the cramdown discharge include:
 
-Fraud -- Section 523(a)(2): debts obtained through false pretenses, fraud, or false financial statements
+Fraud - Section 523(a)(2): debts obtained through false pretenses, fraud, or false financial statements
 
-Willful injury -- Section 523(a)(6): debts for willful and malicious injury to person or property
+Willful injury - Section 523(a)(6): debts for willful and malicious injury to person or property
 
-Domestic support -- Section 523(a)(5): alimony, child support, and other domestic support obligations
+Domestic support - Section 523(a)(5): alimony, child support, and other domestic support obligations
 
-Taxes -- Section 523(a)(1): certain tax debts
+Taxes - Section 523(a)(1): certain tax debts
 
-Student loans -- Section 523(a)(8): educational loans (unless undue hardship is proven)
+Student loans - Section 523(a)(8): educational loans (unless undue hardship is proven)
 
-DUI injuries -- Section 523(a)(9): death or personal injury caused by intoxicated driving
+DUI injuries - Section 523(a)(9): death or personal injury caused by intoxicated driving
 
 This is a significant limitation. Under consensual confirmation, these exceptions do not apply to the Chapter 11 discharge. The cramdown path exposes the debtor to discharge litigation on these categories of debt.
 
@@ -453,7 +459,7 @@ Cooperate with the Subchapter V trustee's oversight
 
 File required reports (operating reports, tax returns)
 
-If the debtor fails to complete payments, the case may be dismissed or converted. In limited circumstances, a hardship discharge may be available -- though this remains an unsettled legal question in Subchapter V.
+If the debtor fails to complete payments, the case may be dismissed or converted. In limited circumstances, a hardship discharge may be available - though this remains an unsettled legal question in Subchapter V.
 
 The Discharge Incentive
 
@@ -473,9 +479,9 @@ Subscribe
 
 Related Resources
 
-section1192.org -- Detailed cramdown guide
+section1192.org - Detailed cramdown guide
 
-bankruptcyhardship.org -- Hardship discharge
+bankruptcyhardship.org - Hardship discharge
 
 Related Guides
 
@@ -492,10 +498,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -594,7 +600,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## 11 USC 1191 -- Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]
+## 11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]
 Source: https://section1191.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -611,9 +617,9 @@ Voting
 Plan Content
 Discharge
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-11 USC 1191 -- Subchapter V Plan Confirmation
+11 USC 1191 - Subchapter V Plan Confirmation
 
 Consensual and nonconsensual plan confirmation in small business bankruptcy. No absolute priority rule.
 
@@ -621,13 +627,13 @@ What Is Section 1191?
 
 Section 1191, added by the Small Business Reorganization Act of 2019, governs plan confirmation in Subchapter V cases. Two paths: consensual (1191(a)) and cramdown (1191(b)).
 
-1191(a) -- Consensual Confirmation
+1191(a) - Consensual Confirmation
 
-All impaired classes accept. The absolute priority rule does not apply -- the debtor retains equity even if unsecured creditors are not paid in full.
+All impaired classes accept. The absolute priority rule does not apply - the debtor retains equity even if unsecured creditors are not paid in full.
 
 Key advantage: Small business owners keep ownership without paying unsecured creditors in full.
 
-1191(b) -- Cramdown
+1191(b) - Cramdown
 
 If impaired classes reject, the court confirms if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly.
 
@@ -643,7 +649,7 @@ At least 50% from commercial or business activities
 
 Must be engaged in commercial or business activities
 
-1191(a) vs 1191(b) -- Key Differences
+1191(a) vs 1191(b) - Key Differences
 
 The distinction between 1191(a) and 1191(b) is the most consequential decision point in a Subchapter V case. It affects discharge timing, creditor treatment, and post-confirmation obligations.
 
@@ -659,7 +665,7 @@ Plan modificationBy debtor only (Section 1193)By debtor, trustee, or UST
 
 Absolute priority ruleDoes not applyDoes not apply
 
-Discharge scopeStandard 1141(d) dischargeBroader -- similar to individual Ch. 13 (Section 1192)
+Discharge scopeStandard 1141(d) dischargeBroader - similar to individual Ch. 13 (Section 1192)
 
 Best outcome for debtorImmediate discharge, clean slateViable even without creditor cooperation
 
@@ -667,7 +673,7 @@ Why 1191(a) vs 1191(b) Matters: A Real-World Example
 
 Consider a small business debtor whose plan proposes to pay unsecured creditors 10% over 3 years. If all creditor classes vote to accept, the plan is confirmed under 1191(a) and the debtor receives an immediate discharge. The debtor continues operating the business free of pre-petition debt from day one of confirmation.
 
-If even one impaired class rejects, the debtor must confirm under 1191(b). This requires committing all projected disposable income for 3-5 years -- and the discharge is deferred until those payments are complete. The debtor operates under court supervision for the entire plan period.
+If even one impaired class rejects, the debtor must confirm under 1191(b). This requires committing all projected disposable income for 3-5 years - and the discharge is deferred until those payments are complete. The debtor operates under court supervision for the entire plan period.
 
 The ballot outcome can be the difference between immediate freedom and years of monitored payments. In practice, many Subchapter V cases are confirmed under 1191(b) because creditor engagement is often low.
 
@@ -713,11 +719,11 @@ Subscribe
 
 Related Resources
 
-section1192.org -- Subchapter V cramdown
+section1192.org - Subchapter V cramdown
 
-1328f.org -- Bankruptcy research platform
+1328f.org - Bankruptcy research platform
 
-step-by-step bankruptcy filing guide -- Step-by-step filing guide
+step-by-step bankruptcy filing guide - Step-by-step filing guide
 
 Related Guides
 
@@ -734,10 +740,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -785,7 +791,7 @@ bankruptcydenied.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -935,10 +941,13 @@ garnishedwages.org
 howtofilebankruptcy.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -960,7 +969,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Plan Content Requirements -- Section 1190
+## Subchapter V Plan Content Requirements - Section 1190
 Source: https://section1191.org/plan-content.html
 
 Skip to main content
@@ -975,11 +984,13 @@ Voting
 Plan Content
 Discharge
 
-Plan Content Requirements -- Section 1190
+Plan Content Requirements - Section 1190
 
 What must be included in a Subchapter V plan. Mandatory provisions and how they differ from traditional Chapter 11.
 
-Section 1190 -- Plan Provisions
+Home›Section 1191 Plan Confirmation›Plan Content Requirements - Section 1190
+
+Section 1190 - Plan Provisions
 
 Section 1190, added by the SBRA, permits a Subchapter V plan to include provisions that are not available in traditional Chapter 11. This additional flexibility is one of the key reasons Congress created Subchapter V.
 
@@ -991,15 +1002,15 @@ Mandatory Plan Contents
 
 Designation of classes of claims and interests
 
-Specification of impaired classes -- which classes are not receiving full payment or having rights modified
+Specification of impaired classes - which classes are not receiving full payment or having rights modified
 
-Treatment of each class -- what each class of claims will receive under the plan
+Treatment of each class - what each class of claims will receive under the plan
 
-Same treatment for each claim in a class -- unless the holder agrees to less favorable treatment
+Same treatment for each claim in a class - unless the holder agrees to less favorable treatment
 
-Adequate means of implementation -- how the plan will be funded (business income, asset sales, new loans, etc.)
+Adequate means of implementation - how the plan will be funded (business income, asset sales, new loans, etc.)
 
-Payment of priority claims -- administrative expenses, tax claims, and domestic support obligations must be paid in full (with limited exceptions)
+Payment of priority claims - administrative expenses, tax claims, and domestic support obligations must be paid in full (with limited exceptions)
 
 No Disclosure Statement Required
 
@@ -1035,9 +1046,9 @@ Subscribe
 
 Related Resources
 
-section1192.org -- Subchapter V cramdown
+section1192.org - Subchapter V cramdown
 
-chapter13plan.org -- Chapter 13 plan guide
+chapter13plan.org - Chapter 13 plan guide
 
 Related Guides
 
@@ -1054,10 +1065,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1161,9 +1172,11 @@ section1191.org
 
 1328f.com1328f.org
 
-Subchapter V -- Small Business Reorganization
+Subchapter V - Small Business Reorganization
 
 Free guide to Subchapter V of Chapter 11 bankruptcy. How small businesses can reorganize under the streamlined Small Business Reorganization Act.
+
+Home›Section 1191 Plan Confirmation›Subchapter V - Small Business Reorganization
 
 90-Day Filing Deadline
 
@@ -1175,7 +1188,7 @@ The plan must provide for the submission of future earnings or income necessary 
 
 Feasibility
 
-The court must find that the debtor will be able to make the plan payments and comply with the plan. This is the same feasibility test as traditional Chapter 11 -- the plan must be more than wishful thinking.
+The court must find that the debtor will be able to make the plan payments and comply with the plan. This is the same feasibility test as traditional Chapter 11 - the plan must be more than wishful thinking.
 
 No Disclosure Statement
 
@@ -1212,10 +1225,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1303,7 +1316,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Plan Voting -- How Creditors Vote
+## Subchapter V Plan Voting - How Creditors Vote
 Source: https://section1191.org/voting.html
 
 Skip to main content
@@ -1322,9 +1335,11 @@ Subchapter V Plan Voting
 
 How classes of creditors vote on a Subchapter V plan. Acceptance thresholds, impairment, and strategic considerations.
 
+Home›Section 1191 Plan Confirmation›Subchapter V Plan Voting
+
 How Voting Works
 
-After the debtor files a plan, creditors in impaired classes are given the opportunity to vote. In Subchapter V, no disclosure statement is required -- the plan itself serves as the solicitation document.
+After the debtor files a plan, creditors in impaired classes are given the opportunity to vote. In Subchapter V, no disclosure statement is required - the plan itself serves as the solicitation document.
 
 Each impaired class votes separately. A class accepts the plan if:
 
@@ -1332,7 +1347,7 @@ Two-thirds in dollar amount of the claims that actually vote are in favor
 
 More than one-half in number of the claims that actually vote are in favor
 
-Both thresholds must be met for the class to accept. Only claims that actually cast ballots are counted -- non-voting creditors are excluded from the calculation.
+Both thresholds must be met for the class to accept. Only claims that actually cast ballots are counted - non-voting creditors are excluded from the calculation.
 
 Impaired vs. Unimpaired Classes
 
@@ -1346,7 +1361,7 @@ Reducing the interest rate
 
 Converting secured debt to unsecured
 
-A class is unimpaired if the plan leaves all rights unchanged (or cures defaults and reinstates the original terms). Unimpaired classes are conclusively presumed to have accepted the plan -- they do not vote.
+A class is unimpaired if the plan leaves all rights unchanged (or cures defaults and reinstates the original terms). Unimpaired classes are conclusively presumed to have accepted the plan - they do not vote.
 
 Strategic note: If only one class is impaired and that class accepts, the plan qualifies for consensual confirmation under 1191(a) with its broader discharge. Plan classification is therefore a critical strategic decision.
 
@@ -1362,7 +1377,7 @@ General unsecured claims
 
 Equity interests
 
-The debtor cannot "gerrymander" classes to manipulate the vote -- placing friendly creditors in one class and hostile creditors in another to ensure acceptance. Courts scrutinize classification for good faith.
+The debtor cannot "gerrymander" classes to manipulate the vote - placing friendly creditors in one class and hostile creditors in another to ensure acceptance. Courts scrutinize classification for good faith.
 
 Impact of Voting on Discharge
 
@@ -1372,7 +1387,7 @@ OutcomeConfirmation PathDischarge TimingDischarge Scope
 
 All impaired classes accept1191(a) consensualUpon confirmationBroad (standard Ch. 11)
 
-Any impaired class rejects1191(b) cramdownAfter all paymentsNarrower -- 523(a) applies
+Any impaired class rejects1191(b) cramdownAfter all paymentsNarrower - 523(a) applies
 
 Critical: A single rejecting class forces the debtor into cramdown, delaying discharge by 3-5 years and narrowing its scope. This makes creditor negotiation essential before the voting deadline.
 
@@ -1386,9 +1401,9 @@ Subscribe
 
 Related Resources
 
-section1192.org -- Cramdown details
+section1192.org - Cramdown details
 
-chapter13plan.org -- Chapter 13 plan voting
+chapter13plan.org - Chapter 13 plan voting
 
 Related Guides
 
@@ -1405,10 +1420,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1512,9 +1527,11 @@ section1191.org
 
 1328f.com1328f.org
 
-Subchapter V -- Small Business Reorganization
+Subchapter V - Small Business Reorganization
 
 Free guide to Subchapter V of Chapter 11 bankruptcy. How small businesses can reorganize under the streamlined Small Business Reorganization Act.
+
+Home›Section 1191 Plan Confirmation›Subchapter V - Small Business Reorganization
 
 Debt Limit
 
@@ -1563,10 +1580,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1651,3 +1668,75 @@ $0 of $5,000 Q1 PACER research goal
 Sponsor this research
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - section1191.org
+Source: https://section1191.org/privacy.html
+
+section1191.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
