@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]</title>
+<meta content="11 USC 1191 governs Subchapter V small business plan confirmation. 1191(a) consensual vs 1191(b) cramdown - key differences in discharge ti..." name="description"/>
+<meta content="section 1191, subchapter v, small business bankruptcy, SBRA, consensual confirmation, cramdown, 1191(a), 1191(b)" name="keywords"/>
+<link href="https://section1191.org/" rel="canonical"/>
+<link href="https://section1191.org/" hreflang="en" rel="alternate"/>
+<link href="https://section1191.org/es.html" hreflang="es" rel="alternate"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="#0d1117" name="theme-color"/>
+<meta content="2026-03-27" name="last-modified"/>
+<meta content="11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]" property="og:title"/>
+<meta content="11 USC 1191 governs Subchapter V small business plan confirmation. 1191(a) consensual vs 1191(b) cramdown - key differences in discharge ti..." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://section1191.org/" property="og:url"/>
+<meta content="section1191.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]" name="twitter:title"/>
+<meta content="11 USC 1191 governs Subchapter V small business plan confirmation. 1191(a) consensual vs 1191(b) cramdown - key differences in discharge ti..." name="twitter:description"/>
+<meta content="https://section1191.org/og-image.svg" property="og:image"/>
+<meta content="https://section1191.org/og-image.svg" name="twitter:image"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NonprofitOrganization",
+  "name": "Open Bankruptcy Project",
+  "url": "https://section1191.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "nonprofitStatus": "https://schema.org/Nonprofit501c3"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org", "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "What is Section 1191?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Section 1191 governs plan confirmation in Subchapter V. Under 1191(a), all impaired classes accept (consensual). Under 1191(b), cramdown over objection if projected disposable income is committed."}},
+    {"@type": "Question", "name": "What is the difference between 1191(a) and 1191(b)?",
+     "acceptedAnswer": {"@type": "Answer", "text": "1191(a) is consensual - all impaired classes accept. 1191(b) is cramdown - the plan commits all projected disposable income for 3-5 years. Discharge timing differs."}},
+    {"@type": "Question", "name": "Who qualifies for Subchapter V?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Small business debtors with aggregate debts not exceeding $7,500,000, at least 50% from business activities."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Section 1191 - Subchapter V Plan Confirmation",
+      "description": "Section 1191 governs Subchapter V plan confirmation - consensual and cramdown paths for small business debtors. Key requirements explained. 2026 guide.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://section1191.org/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://section1191.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Section 1191 Plan Confirmation",
+          "item": "https://section1191.org"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Section 1191 - Subchapter V Plan Confirmation",
+      "url": "https://section1191.org/",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "BTN Network",
+      "url": [
+        "https://1328f.com",
+        "https://1328f.org",
+        "https://automaticstay.org",
+        "https://341meeting.org",
+        "https://523a.org",
+        "https://109g.org",
+        "https://727a8.com",
+        "https://meanstest.org",
+        "https://chapter7vs13.org",
+        "https://howtofilebankruptcy.org"
+      ]
+    }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+  .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .page-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .page-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; transition: border-color 0.2s; }
+  .page-card:hover { border-color: var(--accent); }
+  .page-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.5rem; }
+  .page-card p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
+  .page-card a { font-size: 0.9rem; font-weight: 600; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
+  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
+  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; }
+  .cta-links .primary-btn { background: #238636; color: #fff; } .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
+  .cta-links .secondary-btn { background: var(--border); color: var(--text); } .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
+    .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
+  }
+</style>
+</head>
+<body>
+<!-- aggressive-interlink:lang-en -->
+<div style="background:#161b22;border-bottom:1px solid #30363d;padding:8px 16px;text-align:center;font-size:0.85em"><a href="/es.html" style="color:#58a6ff;text-decoration:none">🌐 Esta pagina esta disponible en Espanol</a></div>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" role="navigation">
+<a class="site-name" href="/">section1191.org</a>
+<button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
+<div class="nav-links">
+<a class="active" href="/">Home</a>
+<a href="/consensual-plan.html">Consensual Plan</a>
+<a href="/cramdown.html">Cramdown</a>
+<a href="/voting.html">Voting</a>
+<a href="/plan-content.html">Plan Content</a>
+<a href="/discharge.html">Discharge</a>
+<a href="/circuits/">By Circuit</a>
+</div>
+</nav>
+<div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 161+ free domains, 115,000+ pages, $0 cost
+</div>
+<header>
+<h1>11 USC 1191 - Subchapter V Plan Confirmation</h1>
+<p class="subtitle">Consensual and nonconsensual plan confirmation in small business bankruptcy. No absolute priority rule.</p>
+</header>
+<main id="main-content">
+<div class="content-section">
+<h2>What Is <a href="https://www.law.cornell.edu/uscode/text/11/1191" rel="noopener" target="_blank">Section 1191</a>?</h2>
+<p>Section 1191, added by the Small Business Reorganization Act of 2019, governs <strong><a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a> in Subchapter V</strong> cases. Two paths: consensual (1191(a)) and <a href="https://section1192.org/" title="cramdown">cramdown</a> (1191(b)).</p>
+</div>
+<div class="content-section">
+<h2>1191(a) - Consensual Confirmation</h2>
+<p>All impaired classes accept. The absolute priority rule does not apply - the debtor retains equity even if unsecured creditors are not paid in full.</p>
+<div class="statute-box"><p><strong>Key advantage:</strong> Small business owners keep ownership without paying unsecured creditors in full.</p></div>
+</div>
+<div class="content-section">
+<h2>1191(b) - Cramdown</h2>
+<p>If impaired classes reject, the court confirms if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly.</p>
+<p><a href="https://section1192.org">Detailed cramdown guide at section1192.org →</a></p>
+<div class="warning-box"><p><strong><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> timing:</strong> 1191(a): <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> upon confirmation. 1191(b): discharge after all payments completed.</p></div>
+</div>
+<div class="content-section">
+<h2>Who Qualifies?</h2>
+<ul>
+<li>Aggregate noncontingent liquidated debts not exceeding <strong>$7,500,000</strong></li>
+<li>At least 50% from commercial or business activities</li>
+<li>Must be engaged in commercial or business activities</li>
+</ul>
+</div>
+<div class="content-section">
+<h2>1191(a) vs 1191(b) - Key Differences</h2>
+<p>The distinction between 1191(a) and 1191(b) is the most consequential decision point in a Subchapter V case. It affects discharge timing, creditor treatment, and post-confirmation obligations.</p>
+<table style="width:100%;border-collapse:collapse;margin:1rem 0;background:#151b23;border:1px solid #30363d;border-radius:8px;overflow:hidden">
+<thead>
+<tr><th style="background:#1c2129;color:#f0f6fc;padding:10px 14px;text-align:left;border-bottom:2px solid #30363d">Feature</th><th style="background:#1c2129;color:#f0f6fc;padding:10px 14px;text-align:left;border-bottom:2px solid #30363d">1191(a) Consensual</th><th style="background:#1c2129;color:#f0f6fc;padding:10px 14px;text-align:left;border-bottom:2px solid #30363d">1191(b) <a href="https://section1192.org/" title="cramdown">Cramdown</a></th></tr>
+</thead>
+<tbody>
+<tr><td style="padding:8px 14px;border-bottom:1px solid #30363d"><strong>Creditor consent</strong></td><td style="padding:8px 14px;border-bottom:1px solid #30363d">All impaired classes accept</td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Over creditor objection</td></tr>
+<tr><td style="padding:8px 14px;border-bottom:1px solid #30363d"><strong>Discharge timing</strong></td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Upon confirmation</td><td style="padding:8px 14px;border-bottom:1px solid #30363d">After all plan payments completed (3-5 years)</td></tr>
+<tr><td style="padding:8px 14px;border-bottom:1px solid #30363d"><strong>Disposable income test</strong></td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Not required</td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Must commit all projected disposable income</td></tr>
+<tr><td style="padding:8px 14px;border-bottom:1px solid #30363d"><strong>Plan modification</strong></td><td style="padding:8px 14px;border-bottom:1px solid #30363d">By debtor only (<a href="https://www.law.cornell.edu/uscode/text/11/1193" rel="noopener" target="_blank">Section 1193</a>)</td><td style="padding:8px 14px;border-bottom:1px solid #30363d">By debtor, trustee, or UST</td></tr>
+<tr><td style="padding:8px 14px;border-bottom:1px solid #30363d"><strong>Absolute priority rule</strong></td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Does not apply</td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Does not apply</td></tr>
+<tr><td style="padding:8px 14px;border-bottom:1px solid #30363d"><strong>Discharge scope</strong></td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Standard 1141(d) discharge</td><td style="padding:8px 14px;border-bottom:1px solid #30363d">Broader - similar to individual Ch. 13 (<a href="https://www.law.cornell.edu/uscode/text/11/1192" rel="noopener" target="_blank">Section 1192</a>)</td></tr>
+<tr><td style="padding:8px 14px"><strong>Best outcome for debtor</strong></td><td style="padding:8px 14px">Immediate discharge, clean slate</td><td style="padding:8px 14px">Viable even without creditor cooperation</td></tr>
+</tbody>
+</table>
+</div>
+<div class="content-section">
+<h2>Why 1191(a) vs 1191(b) Matters: A Real-World Example</h2>
+<p>Consider a small business debtor whose plan proposes to pay unsecured creditors 10% over 3 years. If all creditor classes vote to accept, the plan is confirmed under <strong>1191(a)</strong> and the debtor receives an immediate discharge. The debtor continues operating the business free of pre-petition debt from day one of confirmation.</p>
+<p>If even one impaired class rejects, the debtor must confirm under <strong>1191(b)</strong>. This requires committing all projected disposable income for 3-5 years - and the discharge is deferred until those payments are complete. The debtor operates under court supervision for the entire plan period.</p>
+<p>The ballot outcome can be the difference between immediate freedom and years of monitored payments. In practice, many Subchapter V cases are confirmed under 1191(b) because creditor engagement is often low.</p>
+</div>
+<div class="content-section">
+<h2>Explore This Site</h2>
+<div class="page-grid">
+<div class="page-card"><h3>Consensual Plan</h3><p>1191(a) confirmation when all classes accept.</p><a href="/consensual-plan.html">Read more →</a></div>
+<div class="page-card"><h3>Cramdown</h3><p>1191(b) nonconsensual confirmation requirements.</p><a href="/cramdown.html">Read more →</a></div>
+<div class="page-card"><h3>Voting</h3><p>How creditor classes vote. Acceptance thresholds.</p><a href="/voting.html">Read more →</a></div>
+<div class="page-card"><h3>Plan Content</h3><p>Section 1190 mandatory provisions.</p><a href="/plan-content.html">Read more →</a></div>
+<div class="page-card"><h3>Discharge</h3><p>When discharge occurs. 1192 scope differences.</p><a href="/discharge.html">Read more →</a></div>
+</div>
+</div>
+<div class="content-section">
+<h2>Section 1191 by Federal Circuit</h2>
+<p>Subchapter V is five years old - its confirmation doctrine is still being built, and case law varies meaningfully by circuit. The Fourth Circuit's Trepetin, the Eleventh's Seven Stars, the Fifth's Pearl Resources, and the Ninth's Bonert/Walker are the anchors most commonly cited in the absence of circuit-court precedent. Each page below covers the leading in-circuit Subchapter V decisions, Chapter 11 filing volume, and practice tips.</p>
+<div class="page-grid">
+<div class="page-card"><h3>1st Circuit</h3><p>ME, MA, NH, RI, PR</p><a href="/circuits/1st-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>2nd Circuit</h3><p>NY, CT, VT. Aspen Club S.D.N.Y.</p><a href="/circuits/2nd-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>3rd Circuit</h3><p>PA, NJ, DE, VI. Mehr D.N.J.</p><a href="/circuits/3rd-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>4th Circuit</h3><p>MD, VA, WV, NC, SC. Trepetin anchor.</p><a href="/circuits/4th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>5th Circuit</h3><p>TX, LA, MS. Pearl Resources.</p><a href="/circuits/5th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>6th Circuit</h3><p>MI, OH, KY, TN. Lapeer Aviation.</p><a href="/circuits/6th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>7th Circuit</h3><p>IL, IN, WI. Channel Clarity.</p><a href="/circuits/7th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>8th Circuit</h3><p>MO, AR, IA, MN, NE, ND, SD.</p><a href="/circuits/8th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>9th Circuit</h3><p>CA, OR, WA, AZ, NV, ID, MT, AK, HI. Bonert + Walker.</p><a href="/circuits/9th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>10th Circuit</h3><p>CO, NM, WY, UT, KS, OK.</p><a href="/circuits/10th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>11th Circuit</h3><p>FL, GA, AL. Seven Stars S.D. Fla.</p><a href="/circuits/11th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>D.C. Circuit</h3><p>District of Columbia.</p><a href="/circuits/dc-circuit.html">Read more →</a></div>
+</div>
+<p><a href="/circuits/"><strong>Browse all circuits →</strong></a></p>
+</div>
+<div style="max-width:820px;margin:2rem auto;padding:0 1.5rem">
+<h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Topics</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.75rem">
+<a href="https://section1192.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Section 1192 Cramdown</a>
+<a href="https://chapter13plan.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Chapter 13 Plans</a>
+<a href="https://bankruptcyhardship.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">hardship discharge in bankruptcy</a>
+<a href="https://howtofilebankruptcy.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">How to File Bankruptcy</a>
+</div>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input aria-label="your@email.com" name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1192.org" style="color:#58a6ff">section1192.org</a> - Subchapter V cramdown</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.org" style="color:#58a6ff">1328f.org</a> - Bankruptcy research platform</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">step-by-step bankruptcy filing guide</a> - Step-by-step filing guide</p>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://341meeting.org" style="color:#58a6ff;text-decoration:none">What to Expect at a 341 Meeting</a></li>
+<li><a href="https://creditcounselingbankruptcy.org" style="color:#58a6ff;text-decoration:none">Credit Counseling for Bankruptcy</a></li>
+<li><a href="https://reaffirmationagreement.org" style="color:#58a6ff;text-decoration:none">Reaffirmation Agreements Explained</a></li>
+<li><a href="https://paydayloandebt.org" style="color:#58a6ff;text-decoration:none">Payday Loan Debt in Bankruptcy</a></li>
+</ul>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1191" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 1191</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Sub V confirmation</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1192" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 1192</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Sub V discharge</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.sba.gov/funding-programs/disaster-assistance" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">SBA Disaster Loan Info</a><br/><span style="color:#7d8590;font-size:0.8rem">SBA.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Bankruptcy Basics</a><br/><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">U.S. Trustee Program</a><br/><span style="color:#7d8590;font-size:0.8rem">DOJ Sub V trustees</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22subchapter+v%22+%22small+business%22+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Subchapter V Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.fjc.gov/research/idb" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FJC Bankruptcy Statistics</a><br/><span style="color:#7d8590;font-size:0.8rem"><a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a></span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://section1192.org?utm_source=section1191.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Section 1192 Cramdown</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">section1192.org →</p>
+</a>
+<a class="related-card" href="https://523a.org?utm_source=section1191.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Nondischargeable Debts Under 523(a)</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Which debts survive bankruptcy and why</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">523a.org →</p>
+</a>
+<a class="related-card" href="https://524injunction.com?utm_source=section1191.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Section 524 Discharge Injunction</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">524injunction.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcydenied.com?utm_source=section1191.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">When Bankruptcy Is Denied</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Why bankruptcy cases get denied</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcydenied.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next - we built the answers.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://keepmycarinbankruptcy.com?utm_source=section1191.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Can I Keep My Car?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">How each chapter treats vehicle loans differently</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">keepmycarinbankruptcy.com →</p>
+</a>
+<a class="related-card" href="https://keepmyhouseinbankruptcy.com?utm_source=section1191.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Can I Keep My House?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Chapter 13 can cure mortgage arrears</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">keepmyhouseinbankruptcy.com →</p>
+</a>
+<a class="related-card" href="https://howmuchdoesbankruptcycost.com?utm_source=section1191.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Much Does It Cost?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Filing fees, attorney costs, and payment plans</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howmuchdoesbankruptcycost.com →</p>
+</a>
+<a class="related-card" href="https://filebankruptcyagain.com/your-path.html?utm_source=section1191.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Filed Before? Your Path</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Step-by-step guide for repeat filers</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcyagain.com →</p>
+</a>
+</div>
+</div>
+<!-- /USER JOURNEY -->
+<!-- /RELATED GUIDES -->
+<!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.25rem 1.5rem;max-width:700px;margin:2rem auto;text-align:center">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">State Bankruptcy Guides</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.</p>
+<p style="margin:0 0 0.75rem;font-size:0.85rem;line-height:1.8"><a href="https://bankruptcyexemptionsbystate.com/states/california.html" style="color:#58a6ff;white-space:nowrap">California</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/texas.html" style="color:#58a6ff;white-space:nowrap">Texas</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/florida.html" style="color:#58a6ff;white-space:nowrap">Florida</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html" style="color:#58a6ff;white-space:nowrap">New York</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/illinois.html" style="color:#58a6ff;white-space:nowrap">Illinois</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/ohio.html" style="color:#58a6ff;white-space:nowrap">Ohio</a></p>
+<a href="https://bankruptcyexemptionsbystate.com/states/" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse All 50 State Guides →</a>
+</div>
+<!-- /STATE GUIDES CROSS-LINK -->
+<!-- aggressive-interlink:glossary -->
+<div style="text-align:center;padding:0.75rem 0;margin-top:1rem"><a href="https://whathappensinbankruptcy.com/glossary/" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">📖 Bankruptcy Glossary</a> <span style="color:#7d8590;font-size:0.85rem">-- 61 terms explained</span></div>
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+<div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+<p id="geo-heading" style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">Filing in Your State?</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+<a href="https://bankruptcyexemptionsbystate.com/states/?utm_source=section1191.org&amp;utm_medium=geo-card&amp;utm_campaign=btn-funnel" id="geo-link" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions →</a>
+</div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'section1191.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
+<!-- OBP Contact Form - deployed by deploy_btn_contact_form.py -->
+<div id="obp-help-form" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.5rem;margin:2rem auto;max-width:600px">
+<h3 style="color:#c9d1d9;margin-top:0;margin-bottom:0.5rem">Have a Question?</h3>
+<p style="color:#8b949e;font-size:0.85rem;margin-bottom:1rem">
+    Open Bankruptcy Project provides free educational information. We are not a law firm.
+    Nothing on this site constitutes legal advice. For advice about your specific situation,
+    consult a licensed attorney.
+  </p>
+<form id="obp-help-submit" style="margin:0">
+<input name="source" type="hidden" value="section1191.org"/>
+<input name="topic" type="hidden" value="Site Question"/>
+<input aria-label="Name (optional)" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="text"/>
+<input aria-label="Email" name="email" placeholder="Email" required="" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="email"/>
+<select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
+<option value="">Select your state...</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="VI">U.S. Virgin Islands</option>
+</select>
+<textarea name="message" placeholder="Your question..." required="" rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
+<label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
+<input aria-label="checkbox" required="" style="margin-top:2px;accent-color:#bf3989" type="checkbox"/>
+      I understand this is educational information, not legal advice.
+    </label>
+<button onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" type="submit">Submit Question</button>
+</form>
+<p id="obp-help-thanks" style="display:none;color:#3fb950;font-weight:600;margin:1rem 0 0">Thank you! We typically respond within one business day.</p>
+<script>
+  document.getElementById('obp-help-submit').addEventListener('submit',function(e){
+    e.preventDefault();var f=this,b=f.querySelector('button[type=submit]');
+    b.disabled=true;b.textContent='Sending...';
+    var d={name:f.querySelector('[name=name]').value,email:f.querySelector('[name=email]').value,
+      state:f.querySelector('[name=state]').value,
+      message:f.querySelector('[name=message]').value,
+      topic:'Site Question ('+f.querySelector('[name=source]').value+')'};
+    fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+    .then(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'})
+    .catch(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'});
+  });
+  </script>
+</div>
+<!-- /OBP Contact Form -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=section1191.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=section1191.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=section1191.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
+<p>Real information, no strings.</p>
+<!-- RECAP Counter -->
+<div style="text-align:center;margin:1.5rem auto;max-width:600px">
+<a href="https://openbankruptcyproject.org/recap.html?utm_source=btn&amp;utm_medium=crosslink&amp;utm_campaign=section1191.org" style="display:inline-block;background:#0d1117;border:1px solid #238636;color:#3fb950;padding:0.6rem 1.5rem;border-radius:6px;font-weight:700;font-size:0.95rem;text-decoration:none;letter-spacing:-0.01em">462+ Court Documents Freed from PACER</a>
+<p style="color:#7d8590;font-size:0.78rem;margin-top:0.4rem">We buy federal court records and donate them to RECAP so no one has to pay. <a href="https://openbankruptcyproject.org/recap.html?utm_source=btn&amp;utm_medium=crosslink&amp;utm_campaign=section1191.org" style="color:#58a6ff;text-decoration:none">Browse the archive →</a></p>
+</div>
+<!-- Transparency Counter -->
+<div style="text-align:center;margin:0.5rem auto 1.5rem;max-width:600px">
+<p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
+</div>
+<div class="links">
+<a href="https://1328f.com?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
+<a href="https://1328f.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a>
+<a href="https://automaticstay.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
+<a href="https://meanstest.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a>
+<a href="https://341meeting.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a>
+<a href="https://523a.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523a.org</a>
+<a href="https://109g.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">109g.org</a>
+<a href="https://727a8.com?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a>
+<a href="https://relieffromstay.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">relieffromstay.org</a>
+<a href="https://dischargeinjunction.com?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.com</a>
+<a href="https://prosedebtors.org?utm_source=section1191.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">prosedebtors.org</a>
+<a href="https://canifileagain.org">canifileagain.org</a>
+<a href="https://garnishedwages.org">garnishedwages.org</a>
+<a href="https://howtofilebankruptcy.org">howtofilebankruptcy.org</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+<a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+<a href="https://openbankruptcyproject.org/rule-9037/" rel="noopener">Rule 9037 Compliance Guide</a>
+</div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="margin-top:12px;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap"><a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" onmouseout="this.style.borderColor='#30363d'" onmouseover="this.style.borderColor='#58a6ff'" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#1c2128;border:1px solid #30363d;color:#7d8590;padding:4px 12px;border-radius:20px;font-size:0.75rem;text-decoration:none;transition:border-color 0.2s" target="_blank"><svg fill="#3fb950" height="14" viewbox="0 0 16 16" width="14"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 5.97l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 1.06z"></path></svg> Cited by the Federal Rules Committee (26-BK-3)</a></div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+<div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+<p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
+<p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
+<p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3" style="color:#58a6ff">Suggestion 26-BK-3</a> and <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5" style="color:#58a6ff">Suggestion 26-BK-5</a></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328 discharge requirements</a>(f) <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">bankruptcy discharge bar rules</a> screening in federal bankruptcy courts</p>
+</div>
+<script defer="" src="/btn-engage.js"></script>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

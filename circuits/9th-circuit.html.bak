@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("set","allow_ad_personalization_signals",false);gtag("config","G-FTWLM223G7");gtag("config","G-053Z64N82F");</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Section 1191 in the Ninth Circuit - Subchapter V Confirmation Case Law</title>
+<meta content="How 11 U.S.C. section 1191 consensual and cramdown confirmation is applied in the Ninth Circuit (California, Oregon, Washington, Arizona, Nevada, Idaho, Montana, Alaska, Hawaii, Guam, N. Mariana Islands). Circuit-specific case law, filing volume, and practice tips." name="description"/>
+<link href="https://section1191.org/circuits/9th-circuit.html" rel="canonical"/>
+<meta content="2026-04-18" name="last-modified"/>
+<meta content="Section 1191 in the Ninth Circuit - Subchapter V Confirmation Case Law" property="og:title"/>
+<meta content="How 11 U.S.C. section 1191 consensual and cramdown confirmation is applied in the Ninth Circuit (California, Oregon, Washington, Arizona, Nevada, Idaho, Montana, Alaska, Hawaii, Guam, N. Mariana Islands). Circuit-specific case law, filing volume, and practice tips." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://section1191.org/circuits/9th-circuit.html" property="og:url"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<style>
+:root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+.nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+.nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+.content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+.content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+.content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+.content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+.content-section li { margin-bottom: 0.4rem; }
+.statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+.case-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.25rem; margin: 0.75rem 0; }
+.case-card .cite { color: #f0f6fc; font-weight: 600; margin-bottom: 0.25rem; }
+.case-card .status { display: inline-block; padding: 0.15rem 0.55rem; border-radius: 10px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 0.5rem; }
+.status-binding { background: #1f6feb33; color: #79c0ff; }
+.status-persuasive { background: #3fb95033; color: #3fb950; }
+.status-emerging { background: #e3a83533; color: #e3a835; }
+.content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+.content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+.content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+.circuit-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.circuit-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; transition: border-color 0.2s; }
+.circuit-card:hover { border-color: var(--accent); }
+.circuit-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.35rem; }
+.circuit-card p { color: var(--text-muted); font-size: 0.85rem; margin: 0 0 0.5rem; line-height: 1.45; }
+.circuit-card a { font-size: 0.88rem; font-weight: 600; }
+footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+</style>
+</head>
+<body>
+<nav aria-label="Site navigation" role="navigation"><a class="site-name" href="/">section1191.org</a><div class="nav-links"><a href="/">Home</a><a href="/who-qualifies.html">Who Qualifies</a><a href="/consensual-plan.html">1191(a)</a><a href="/cramdown.html">1191(b)</a><a href="/plan-requirements.html">Plan Requirements</a><a href="/voting.html">Voting</a><a href="/discharge.html">Discharge</a><a href="/circuits/">Circuits</a></div></nav>
+<header>
+<h1>Section 1191 in the Ninth Circuit</h1>
+<p class="subtitle">Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across California, Oregon, Washington, Arizona, Nevada, Idaho, Montana, Alaska, Hawaii, Guam, N. Mariana Islands.</p>
+</header>
+<main>
+<div class="content-section">
+<h2>Statutory Overview</h2>
+<p><a href="https://www.law.cornell.edu/uscode/text/11/1191" rel="noopener" target="_blank">11 U.S.C. section 1191</a> is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.</p>
+<div class="statute-box"><p><strong>11 U.S.C. section 1191(b):</strong> "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."</p></div>
+<p>Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Ninth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.</p>
+</div>
+
+<div class="content-section">
+<h2>Leading Case Law in the Ninth Circuit</h2>
+<p>The Subchapter V opinions most frequently cited in the Ninth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.</p>
+<div class="case-card"><p class="cite"><span class="status status-persuasive">Persuasive</span> In re Bonert, 619 B.R. 248 (Bankr. C.D. Cal. 2020)</p><p>C.D. Cal. on 1191(b) cramdown confirmation.</p></div><div class="case-card"><p class="cite"><span class="status status-persuasive">Persuasive</span> In re Walker, 628 B.R. 9 (Bankr. W.D. Wash. 2021)</p><p>Widely cited in the Ninth Circuit on Subchapter V plan-feasibility.</p></div><div class="case-card"><p class="cite"><span class="status status-persuasive">Persuasive</span> In re Young, 630 B.R. 474 (Bankr. D. Idaho 2021)</p><p>On fair-and-equitable under 1191(c).</p></div>
+<p>Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.</p>
+</div>
+
+<div class="content-section">
+<h2>Chapter 11 / Subchapter V Filing Volume in the Ninth Circuit</h2>
+<p>Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records <strong>99</strong> Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):</p><table><thead><tr><th>District Code</th><th>Ch. 11 Cases</th></tr></thead><tbody><tr><td><code>nvbk</code></td><td>74</td></tr><tr><td><code>cacbk</code></td><td>10</td></tr><tr><td><code>azbk</code></td><td>6</td></tr><tr><td><code>caebk</code></td><td>3</td></tr><tr><td><code>wawbk</code></td><td>2</td></tr><tr><td><code>waebk</code></td><td>1</td></tr><tr><td><code>mtbk</code></td><td>1</td></tr><tr><td><code>casbk</code></td><td>1</td></tr><tr><td><code>canbk</code></td><td>1</td></tr></tbody></table><p>Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.</p>
+<p>Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.</p>
+</div>
+
+<div class="content-section">
+<h2>Practice Tips for the Ninth Circuit</h2>
+<ul><li>Bonert (C.D. Cal.) and Walker (W.D. Wash.) are the primary in-circuit anchors; cite both for cramdown feasibility.</li><li>C.D. Cal. is high-volume and experienced; plan-confirmation hearings are often decided in a single setting.</li><li>D. Idaho, D. Mont., and D. Alaska apply a practical feasibility standard - be ready with cash-flow projections and sensitivity analysis.</li></ul>
+<p>These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).</p>
+</div>
+
+<div class="content-section">
+<h2>Related Resources</h2>
+<ul>
+<li><a href="/who-qualifies.html">Who Qualifies for Subchapter V</a> - Debt limit and eligibility basics.</li>
+<li><a href="/consensual-plan.html">1191(a) Consensual Confirmation</a> - Requirements, discharge timing, effect.</li>
+<li><a href="/cramdown.html">1191(b) Cramdown</a> - Fair and equitable, disposable-income commitment.</li>
+<li><a href="/plan-requirements.html">Plan Requirements</a> - Section 1190 plan content.</li>
+<li><a href="/voting.html">Voting and Acceptance</a> - Impaired class mechanics.</li>
+<li><a href="/discharge.html">Subchapter V Discharge</a> - Section 1192 and timing.</li>
+<li><a href="/circuits/">All Circuits</a> - Browse every federal circuit.</li>
+</ul>
+</div>
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy transparency</p><p>Part of the Bankruptcy Transparency Network - section1191.org</p><p><a href="https://openbankruptcyproject.org">openbankruptcyproject.org</a> | <a href="/privacy.html">Privacy</a></p><p class="disclaimer">This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.</p></footer>
+</body>
+</html>
