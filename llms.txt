@@ -1,22 +1,37 @@
 # 11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> 11 USC 1191 governs Subchapter V small business plan confirmation. 1191(a) consensual vs 1191(b) cramdown - key differences in discharge ti...
+> 11 USC 1191 governs Subchapter V small business plan confirmation.
 
 ## About
 section1191.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Section 1191(a) - Consensual Subchapter V Plan Confirmation: https://section1191.org/consensual-plan.html
-- Section 1191(b) Cramdown - Nonconsensual Subchapter V Plan: https://section1191.org/cramdown.html
-- Subchapter V Discharge - Section 1192 Timing and Scope: https://section1191.org/discharge.html
-- After a Nonconsensual Confirmation - What 1191(b) Costs the Debtor: https://section1191.org/after-confirmation.html
+- Section 1191(a) Consensual Plan [2026]: Subchapter V Confirmation Without Cramdown: https://section1191.org/consensual-plan.html
+- Section 1191(b) Subchapter V Cramdown [2026]: Nonconsensual Confirmation Without Absolute Priority: https://section1191.org/cramdown.html
+- Subchapter V Discharge [2026]: 11 USC 1192 Timing, Scope, and Plan-Completion Trigger: https://section1191.org/discharge.html
 - 11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b): https://section1191.org/
-- Subchapter V Plan Content Requirements - Section 1190: https://section1191.org/plan-content.html
+- Subchapter V Plan Content [2026]: 11 USC 1190 Required Elements and Disposable Income Projection: https://section1191.org/plan-content.html
 - Subchapter V Plan Requirements: https://section1191.org/plan-requirements.html
-- Subchapter V Plan Voting - How Creditors Vote: https://section1191.org/voting.html
+- Subchapter V Plan Voting [2026]: 11 USC 1126 Acceptance Thresholds and Impaired-Class Math: https://section1191.org/voting.html
 - Who Qualifies for Subchapter V?: https://section1191.org/who-qualifies.html
 - Privacy Policy: https://section1191.org/privacy.html
+- About section1191.org: https://section1191.org/about.html
+- After 1191(b) Confirmation [2026]: What a Nonconsensual Subchapter V Plan Costs: https://section1191.org/after-confirmation.html
+- Section 1191 in the Tenth Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/10th-circuit.html
+- Section 1191 in the Eleventh Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/11th-circuit.html
+- Section 1191 in the First Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/1st-circuit.html
+- Section 1191 in the Second Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/2nd-circuit.html
+- Section 1191 in the Third Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/3rd-circuit.html
+- Section 1191 in the Fourth Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/4th-circuit.html
+- Section 1191 in the Fifth Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/5th-circuit.html
+- Section 1191 in the Sixth Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/6th-circuit.html
+- Section 1191 in the Seventh Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/7th-circuit.html
+- Section 1191 in the Eighth Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/8th-circuit.html
+- Section 1191 in the Ninth Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/9th-circuit.html
+- Section 1191 in the D.C. Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/dc-circuit.html
+- Section 1191 by Federal Circuit - Subchapter V Confirmation Case Law: https://section1191.org/circuits/
+- Section 1191 Caselaw Map - Subchapter V Plan Confirmation: https://section1191.org/caselaw.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

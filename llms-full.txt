@@ -1,6 +1,6 @@
 # section1191.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on section1191.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Section 1191(a) - Consensual Subchapter V Plan Confirmation
+## Section 1191(a) Consensual Plan [2026]: Subchapter V Confirmation Without Cramdown
 Source: https://section1191.org/consensual-plan.html
 
 Skip to main content
@@ -22,12 +22,15 @@ Cramdown
 Voting
 Plan Content
 Discharge
+After Confirmation
 
 Consensual Plan Confirmation - Section 1191(a)
 
 When all impaired classes accept, the plan is confirmed consensually. The debtor retains equity without paying unsecured creditors in full.
 
 Home›Section 1191 Plan Confirmation›Consensual Plan Confirmation - Section 1191(a)
+
+All impaired classes of creditors accept the plan. The court confirms if the plan meets the standard Chapter 11 confirmation requirements of Section 1129(a), with modifications for Subchapter V.
 
 How Consensual Confirmation Works
 
@@ -163,28 +166,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -194,19 +212,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Section 1191(b) Cramdown - Nonconsensual Subchapter V Plan
+## Section 1191(b) Subchapter V Cramdown [2026]: Nonconsensual Confirmation Without Absolute Priority
 Source: https://section1191.org/cramdown.html
 
 Skip to main content
@@ -220,12 +238,15 @@ Cramdown
 Voting
 Plan Content
 Discharge
+After Confirmation
 
 Cramdown - Section 1191(b)
 
 When creditors reject the plan, the court can still confirm if the debtor commits all projected disposable income for 3-5 years.
 
 Home›Section 1191 Plan Confirmation›Cramdown - Section 1191(b)
+
+Cramdown under Section 1191(b) allows the court to confirm a plan over creditor objection if the plan commits all projected disposable income for 3-5 years and does not discriminate unfairly.
 
 When Cramdown Applies
 
@@ -264,6 +285,8 @@ The cramdown discharge is narrower and later than the consensual discharge:
 Timing: Discharge enters after the debtor completes all plan payments, not upon confirmation
 
 Scope: Section 523(a) exceptions apply - debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge
+
+The wait is not the only thing that changes. The trustee stays in the case and distributes, property acquired after confirmation remains estate property, and priority taxes may be paid through the plan. See what a nonconsensual confirmation changes for the years that follow.
 
 This is a significant disadvantage of cramdown. Under consensual confirmation, the debtor gets an immediate, broad discharge. Under cramdown, the debtor must complete years of payments and still faces exceptions to discharge. Negotiate for consensual acceptance whenever possible.
 
@@ -353,28 +376,43 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -384,19 +422,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Subchapter V Discharge - Section 1192 Timing and Scope
+## Subchapter V Discharge [2026]: 11 USC 1192 Timing, Scope, and Plan-Completion Trigger
 Source: https://section1191.org/discharge.html
 
 Skip to main content
@@ -410,12 +448,15 @@ Cramdown
 Voting
 Plan Content
 Discharge
+After Confirmation
 
 Subchapter V Discharge Timing
 
 When the discharge occurs depends on whether the plan was confirmed consensually or through cramdown.
 
 Home›Section 1191 Plan Confirmation›Subchapter V Discharge Timing
+
+Under 1191(a) consensual confirmation, discharge occurs upon confirmation. Under 1191(b) cramdown, discharge occurs after the debtor completes all plan payments.
 
 Two Paths to Discharge
 
@@ -460,6 +501,8 @@ Remain current on domestic support obligations
 Cooperate with the Subchapter V trustee's oversight
 
 File required reports (operating reports, tax returns)
+
+For what else the plan years carry in a case confirmed under 1191(b), including trustee distributions, Section 1186 property of the estate, and the Section 1191(e) tax rule, see after a nonconsensual confirmation.
 
 If the debtor fails to complete payments, the case may be dismissed or converted. In limited circumstances, a hardship discharge may be available - though this remains an unsettled legal question in Subchapter V.
 
@@ -559,28 +602,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -590,13 +648,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -605,7 +663,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## 11 USC 1191 - Subchapter V Plan Confirmation: 1191(a) vs 1191(b) [2026]
 Source: https://section1191.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -618,12 +676,17 @@ Cramdown
 Voting
 Plan Content
 Discharge
+After Confirmation
+Caselaw
+By Circuit
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 11 USC 1191 - Subchapter V Plan Confirmation
 
 Consensual and nonconsensual plan confirmation in small business bankruptcy. No absolute priority rule.
+
+Section 1191 governs plan confirmation in Subchapter V. Under 1191(a), all impaired classes accept (consensual). Under 1191(b), cramdown over objection if projected disposable income is committed.
 
 What Is Section 1191?
 
@@ -653,7 +716,7 @@ Must be engaged in commercial or business activities
 
 1191(a) vs 1191(b) - Key Differences
 
-The distinction between 1191(a) and 1191(b) is the most consequential decision point in a Subchapter V case. It affects discharge timing, creditor treatment, and post-confirmation obligations.
+The distinction between 1191(a) and 1191(b) is the most consequential decisión point in a Subchapter V case. It affects discharge timing, creditor treatment, and post-confirmation obligations.
 
 Feature1191(a) Consensual1191(b) Cramdown
 
@@ -670,6 +733,38 @@ Absolute priority ruleDoes not applyDoes not apply
 Discharge scopeStandard 1141(d) dischargeBroader - similar to individual Ch. 13 (Section 1192)
 
 Best outcome for debtorImmediate discharge, clean slateViable even without creditor cooperation
+
+Consent Integrity Under 1191(a)
+
+Section 1191(a) requires that all impaired classes accept the plan. Acceptance is meaningful only on an adequate informational predicate. When post-confirmation conduct surfaces material pre-confirmation nondisclosure, the consent foundation of a 1191(a) confirmation is open to challenge.
+
+The Disclosure Predicate
+
+Subchapter V relaxes the formal disclosure statement requirement under Section 1181(b), but the substance of the disclosure obligation persists. Section 1187(b) directs the debtor to comply with the requirements of Section 1125(a) (the "adequate information" standard) in the plan itself. A 1191(a) acceptance obtained without that adequate-information predicate is structurally defective even if the ballot count is unanimous.
+
+The Revocation Gateway
+
+Section 1144 permits the court, on motion of a party in interest within 180 days after confirmation, to revoke a confirmation order procured by fraud. This is the procedural vehicle when post-confirmation discovery surfaces material pre-confirmation nondisclosure. The 180-day window is strict; missed deadlines extinguish the revocation path even where the underlying fraud is later established.
+
+Post-Confirmation Conduct as Evidence of Pre-Confirmation Consent Defect
+
+Conduct that emerges after confirmation can illuminate the integrity of the pre-confirmation consent record. Four analytical categories arise:
+
+Undisclosed creditor conduct during the case: automatic stay violations under Section 362(k) that occurred during the pendency but were not disclosed in solicitation materials and would have changed the creditor-recovery calculus.
+
+Undisclosed professional fee structures: post-confirmation fee arrangements not disclosed at confirmation that materially change net plan economics for unsecured creditors.
+
+Information asymmetry between debtor's professionals and the creditor class: material facts known to debtor's counsel that were not surfaced in the disclosure record.
+
+Post-confirmation discovery of pre-confirmation conduct: a creditor learning after confirmation that the debtor's representations about contingent liabilities or operational facts were materially incomplete.
+
+Each category is independently a basis for a Section 1144 motion if the procurement-by-fraud standard is met and the 180-day window has not closed.
+
+Subchapter V Trustee Duties at the Consent Layer
+
+Section 1183(b)(7) imposes a duty on the Subchapter V trustee to appear and be heard at any hearing that concerns confirmation of a plan. Section 1183(b)(2) requires the trustee to facilitate the development of a consensual plan of reorganization. Read together, these provisions place the SVT in a position to flag consent-integrity concerns at confirmation even where the debtor's counsel does not. SVT silence at confirmation is not consent; it is a record fact relevant to subsequent revocation analysis.
+
+Why this matters analytically: Most Subchapter V cases proceed on a thin creditor-engagement record. Where unsecured classes do not file ballots or do not appear at confirmation, the "consensual" foundation rests on a default or on a small number of affirmative votes. The proportional weight of the consent-integrity question is therefore larger in Sub V than in conventional Chapter 11, not smaller. Federal regulators (UST, SVT, EOUST review) and post-confirmation creditor counsel approach 1191(a) confirmations with this asymmetry in mind.
 
 Why 1191(a) vs 1191(b) Matters: A Real-World Example
 
@@ -705,6 +800,72 @@ Discharge
 
 When discharge occurs. 1192 scope differences.
 Read more →
+
+Section 1191 by Federal Circuit
+
+Subchapter V is five years old - its confirmation doctrine is still being built, and case law varies meaningfully by circuit. The Fourth Circuit's Trepetin, the Eleventh's Seven Stars, the Fifth's Pearl Resources, and the Ninth's Bonert/Walker are the anchors most commonly cited in the absence of circuit-court precedent. Each page below covers the leading in-circuit Subchapter V decisions, Chapter 11 filing volume, and practice tips.
+
+1st Circuit
+
+ME, MA, NH, RI, PR
+Read more →
+
+2nd Circuit
+
+NY, CT, VT. Aspen Club S.D.N.Y.
+Read more →
+
+3rd Circuit
+
+PA, NJ, DE, VI. Mehr D.N.J.
+Read more →
+
+4th Circuit
+
+MD, VA, WV, NC, SC. Trepetin anchor.
+Read more →
+
+5th Circuit
+
+TX, LA, MS. Pearl Resources.
+Read more →
+
+6th Circuit
+
+MI, OH, KY, TN. Lapeer Aviation.
+Read more →
+
+7th Circuit
+
+IL, IN, WI. Channel Clarity.
+Read more →
+
+8th Circuit
+
+MO, AR, IA, MN, NE, ND, SD.
+Read more →
+
+9th Circuit
+
+CA, OR, WA, AZ, NV, ID, MT, AK, HI. Bonert + Walker.
+Read more →
+
+10th Circuit
+
+CO, NM, WY, UT, KS, OK.
+Read more →
+
+11th Circuit
+
+FL, GA, AL. Seven Stars S.D. Fla.
+Read more →
+
+D.C. Circuit
+
+District of Columbia.
+Read more →
+
+Browse all circuits →
 
 Related Topics
 
@@ -913,43 +1074,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-canifileagain.org
-garnishedwages.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -959,19 +1120,47 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+
 ---
 
-## Subchapter V Plan Content Requirements - Section 1190
+## Subchapter V Plan Content [2026]: 11 USC 1190 Required Elements and Disposable Income Projection
 Source: https://section1191.org/plan-content.html
 
 Skip to main content
@@ -985,12 +1174,15 @@ Cramdown
 Voting
 Plan Content
 Discharge
+After Confirmation
 
 Plan Content Requirements - Section 1190
 
 What must be included in a Subchapter V plan. Mandatory provisions and how they differ from traditional Chapter 11.
 
 Home›Section 1191 Plan Confirmation›Plan Content Requirements - Section 1190
+
+The plan must designate classes of claims, specify which classes are impaired, state the treatment for each class, provide adequate means for implementation, and include all projected disposable income if seeking cramdown.
 
 Section 1190 - Plan Provisions
 
@@ -1124,28 +1316,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1155,13 +1362,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1179,6 +1386,8 @@ Subchapter V - Small Business Reorganization
 Free guide to Subchapter V of Chapter 11 bankruptcy. How small businesses can reorganize under the streamlined Small Business Reorganization Act.
 
 Home›Section 1191 Plan Confirmation›Subchapter V - Small Business Reorganization
+
+The means test compares your income to your state's median income to determine Chapter 7 eligibility. If your income is below the median, you qualify automatically. If above, a detailed expense analysis determines whether you have enough disposable income to fund a Chapter 13 plan instead.
 
 90-Day Filing Deadline
 
@@ -1286,15 +1495,41 @@ Free Means Test Calculator -- meanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
 
-1328f.com1328f.org♥ Sponsor
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
 
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
 
-Privacy | Terms | Open Bankruptcy Project
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1318,7 +1553,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Plan Voting - How Creditors Vote
+## Subchapter V Plan Voting [2026]: 11 USC 1126 Acceptance Thresholds and Impaired-Class Math
 Source: https://section1191.org/voting.html
 
 Skip to main content
@@ -1332,12 +1567,15 @@ Cramdown
 Voting
 Plan Content
 Discharge
+After Confirmation
 
 Subchapter V Plan Voting
 
 How classes of creditors vote on a Subchapter V plan. Acceptance thresholds, impairment, and strategic considerations.
 
 Home›Section 1191 Plan Confirmation›Subchapter V Plan Voting
+
+Each class accepts if at least two-thirds in dollar amount and more than one-half in number of the voting claims in that class vote yes.
 
 How Voting Works
 
@@ -1479,28 +1717,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1510,13 +1763,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1534,6 +1787,8 @@ Subchapter V - Small Business Reorganization
 Free guide to Subchapter V of Chapter 11 bankruptcy. How small businesses can reorganize under the streamlined Small Business Reorganization Act.
 
 Home›Section 1191 Plan Confirmation›Subchapter V - Small Business Reorganization
+
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients.
 
 Debt Limit
 
@@ -1641,15 +1896,41 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
 
-1328f.com1328f.org♥ Sponsor
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
 
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
 
-Privacy | Terms | Open Bankruptcy Project
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1729,7 +2010,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1739,6 +2020,1779 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About section1191.org
+Source: https://section1191.org/about.html
+
+section1191.org
+
+Home
+About
+Privacy
+
+About section1191.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+section1191.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## After 1191(b) Confirmation [2026]: What a Nonconsensual Subchapter V Plan Costs
+Source: https://section1191.org/after-confirmation.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Consensual Plan
+Cramdown
+Voting
+Plan Content
+Discharge
+After Confirmation
+
+After a Nonconsensual Confirmation - Section 1191(b)
+
+The plan is confirmed and the case is not over. What a cramdown confirmation changes for the years that follow, and when the debtor gets those things back.
+
+Home›Section 1191 Plan Confirmation›After a Nonconsensual Confirmation
+
+Confirmation under Section 1191(b) does not end the case. Section 1192 holds the discharge until the debtor completes the payments due in the first three years of the plan, or a longer period up to five years that the court sets. In the meantime the trustee stays in the case and usually makes the distributions, property acquired after confirmation remains estate property, and priority taxes may be paid through the plan instead of in cash on the effective date.
+
+The One Date That Moves
+
+Most writing about Section 1191 stops at the confirmation hearing. The vote failed, the court applied the fair and equitable test, the plan was confirmed anyway. That is where the statute stops being about confirmation and starts being about the next three to five years.
+
+Under a consensual confirmation, Section 1141(d) gives the debtor a discharge at confirmation. Under a nonconsensual one it does not. Section 1192 grants the discharge "as soon as practicable after completion by the debtor of all payments due within the first 3 years of the plan, or such longer period not to exceed 5 years as the court may fix."
+
+The difference between the two paths is less about what the plan pays than about how long the debtor waits, and what stays in place during the wait.
+
+Section 1192: discharge on completion of plan payments, not on confirmation. The gap is the length of the plan.
+
+What the Discharge Covers When It Arrives
+
+Section 1192 discharges debts provided for in the plan, with two exceptions written into the section itself:
+
+any debt on which the last payment is due after the first three years of the plan, or the longer period the court fixed;
+
+any debt of the kind specified in Section 523(a).
+
+The second exception matters more than it looks. In an ordinary corporate Chapter 11, Section 1141(d) discharges the company broadly and the 523(a) list is an individual-debtor problem. Two federal courts of appeals have read Section 1192(2) to reach corporate debtors as well: the Fourth Circuit in Cantwell-Cleary Co. v. Cleary Packaging, LLC (2022) and the Fifth Circuit in In re GFS Industries, L.L.C. (2024). Several bankruptcy courts had read it the other way before those decisions.
+
+A creditor who wants a debt held nondischargeable still has to bring an adversary proceeding and prove it. The exception is not automatic, and it is not a finding against anyone until a court makes one.
+
+The Trustee Does Not Leave
+
+Section 1183(c)(1) terminates the Subchapter V trustee's service when the plan is substantially consummated, and it says so only for a plan confirmed under Section 1191(a). A plan confirmed under 1191(b) does not trigger that termination.
+
+Section 1194(b) then assigns the money: if a plan is confirmed under 1191(b), the trustee makes the payments to creditors under the plan, except as otherwise provided in the plan or in the confirmation order.
+
+For a small business owner used to paying vendors directly, this is a real operational change. The debtor funds the trustee and the trustee distributes. Trustee compensation is part of the cost of the plan, and post-confirmation reporting to the court and the United States Trustee continues for the same period.
+
+Worth reading closely: the confirmation order can change who disburses. Section 1194(b) yields to the plan and to the order confirming it, so the allocation is negotiable at confirmation rather than fixed by statute.
+
+Property Acquired After Confirmation Stays in the Estate
+
+Section 1186(a) is short and easy to miss. In a case confirmed under 1191(b), property of the estate includes property the debtor acquires after confirmation and earnings from services the debtor performs after confirmation, until the case is closed, dismissed, or converted.
+
+That is the opposite of the ordinary rule in Section 1141(b), where confirmation revests estate property in the debtor. Equipment bought in year two, receivables generated in year three, and cash retained along the way sit inside the estate rather than outside it. Whether a particular sale or loan needs court approval depends on the plan and the confirmation order, which is another reason to read those two documents before signing anything during the plan years.
+
+Priority Taxes Can Ride the Plan
+
+Section 1129(a)(9)(A) ordinarily requires that administrative expense claims under Section 507(a)(2) be paid in full, in cash, on the effective date of the plan. For a business emerging with payroll tax exposure, that single sentence has ended more reorganizations than any voting rule.
+
+Section 1191(e) sets it aside. A plan confirmed under 1191(b) may provide for the payment through the plan of a claim of a kind specified in paragraph (2) or (8) of Section 507(a). Administrative taxes and priority taxes can be spread across the plan term instead of paid on the effective date.
+
+Cramdown is not only a cost. The nonconsensual path carries a cash-flow tool the consensual path does not, and for a business carrying tax debt it is often the larger number on the page.
+
+Interest, the taxing authority's rights, and how post-confirmation tax liabilities are treated are set by the plan and by applicable law, not by Section 1191(e) alone.
+
+If the Plan Stops Working
+
+Section 1193(c) lets a debtor whose plan was confirmed under 1191(b) ask to modify it at any time within three years, or the longer period up to five years that the court fixed. The modified plan has to meet the same 1191(b) requirements it met the first time.
+
+Compare Section 1193(b), which governs a plan confirmed under 1191(a): modification is available only before substantial consummation. Once the consensual plan is substantially consummated, that door closes.
+
+So the path that costs the debtor a faster discharge also keeps open a remedy the faster path gives up. A business whose revenue changes in year two has somewhere to go.
+
+What Does Not Change
+
+The absolute priority rule still does not apply. Section 1181(a) turns off Section 1129(b)(2)(B)(ii) for every Subchapter V case, consensual or not. The owner keeps the equity.
+
+No disclosure statement is required. Section 1181(b) applies the same way.
+
+The debtor remains in possession and continues to operate.
+
+Creditor rejection did not defeat the plan. A confirmed cramdown plan is a confirmed plan.
+
+A plan confirmed over objection is not a lesser plan. It is the same plan on a longer clock.
+
+The Sequence, Start to Finish
+
+Confirmation under 1191(b). No discharge yet. Payments begin under the plan.
+
+Substantial consummation. The debtor files a notice within 14 days under Section 1183(c)(2). In a 1191(b) case this does not end the trustee's service.
+
+The plan years. Trustee distributions under 1194(b), post-confirmation property in the estate under 1186(a), continuing reports, and a modification right under 1193(c).
+
+Completion of the payments due in the first three years, or the longer court-fixed period up to five.
+
+Discharge under Section 1192, as soon as practicable after that completion, subject to the two exceptions above.
+
+Final decree and closing. The estate ends, and the property that Section 1186 held comes back.
+
+Step 6 is the answer to the question the statute never states plainly. What a nonconsensual confirmation takes is time and control, and both are returned at the end of the plan rather than at the beginning.
+
+Where to Read Next
+
+Cramdown under 1191(b) for the confirmation standard itself, including the disposable income test.
+
+Consensual confirmation under 1191(a) for the path that discharges at confirmation.
+
+Subchapter V discharge for the timing and scope of Section 1192.
+
+Plan content under Section 1190 for what the plan itself has to say.
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII - Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII - Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1192 Cramdown
+
+Free bankruptcy information guide
+
+section1192.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
+
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Section 1191 in the Tenth Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/10th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Tenth Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Colorado, New Mexico, Wyoming, Utah, Kansas, Oklahoma.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Tenth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Tenth Circuit
+
+The Subchapter V opinions most frequently cited in the Tenth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Urgent Care Physicians, Ltd., 2021 WL ___ (Bankr. E.D. Wis. 2021)
+
+Cited in D. Colo. on 1191(b) cramdown and disposable-income projections.
+
+Persuasive In re Lapeer Aviation, Inc., 2022 WL 1110072 (Bankr. E.D. Mich. Apr. 13, 2022)
+
+Used in D. Kan. on feasibility.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Tenth Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 238 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+ksbk238
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Tenth Circuit
+
+D. Kan. and D. Colo. Subchapter V benches are small but active; draw on Ninth-Circuit persuasive authority where Tenth-Circuit precedent is thin.
+
+Urgent Care Physicians is a common citation on 1191(b) disposable-income analysis.
+
+Oklahoma districts tend to favor consensual 1191(a) outcomes; push trustee-facilitated negotiation.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Eleventh Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/11th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Eleventh Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Florida, Georgia, Alabama.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Eleventh Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Eleventh Circuit
+
+The Subchapter V opinions most frequently cited in the Eleventh Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Seven Stars on the Hudson Corp., 618 B.R. 333 (Bankr. S.D. Fla. 2020)
+
+Leading Eleventh Circuit bankruptcy court opinion on 1191(c) fair-and-equitable; routinely cited.
+
+Persuasive In re Samurai Martial Sports, Inc., 644 B.R. 667 (Bankr. S.D. Tex. 2022)
+
+Cited by M.D. Fla. on cramdown feasibility.
+
+Persuasive In re Lucky Bucks, LLC, 2023 WL ___ (Bankr. D. Del. 2023)
+
+Read in N.D. Ga. on plan-content requirements.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Eleventh Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 1,950 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+flsbk1,083
+
+ganbk566
+
+flmbk158
+
+alnbk116
+
+almbk18
+
+flnbk8
+
+gambk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Eleventh Circuit
+
+Seven Stars on the Hudson (Bankr. S.D. Fla.) is the leading in-circuit case; cite it for fair-and-equitable treatment of secured claims.
+
+M.D. Fla. and S.D. Fla. Subchapter V dockets are among the highest in the country; experienced trustee pools operate in Tampa, Orlando, and Miami.
+
+N.D. Ga. and N.D. Ala. apply conservative feasibility standards; support cramdown plans with detailed industry benchmarks.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the First Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/1st-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the First Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Maine, Massachusetts, New Hampshire, Rhode Island, Puerto Rico.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The First Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the First Circuit
+
+The Subchapter V opinions most frequently cited in the First Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Trepetin, 617 B.R. 841 (Bankr. D. Md. 2020)
+
+Early influential Subchapter V confirmation decision, read in D. Mass. and D.R.I.
+
+Persuasive In re Seven Stars on the Hudson Corp., 618 B.R. 333 (Bankr. S.D. Fla. 2020)
+
+On fair and equitable under 1191(c); cited for cramdown analysis.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the First Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 20 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+mabk19
+
+nhbk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the First Circuit
+
+D. Mass. and D.R.I. Subchapter V trustees (Region 1) are experienced and active in plan negotiation; expect trustee to propose compromise language.
+
+File consensual 1191(a) plans where possible - discharge is at confirmation rather than after the 3-5 year projected-disposable-income period.
+
+P.R. cases: confirm translation requirements for plan documents under local rules.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Second Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/2nd-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Second Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across New York, Connecticut, Vermont.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Second Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Second Circuit
+
+The Subchapter V opinions most frequently cited in the Second Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Aspen Club & Spa, LLC, 623 B.R. 560 (Bankr. S.D.N.Y. 2021)
+
+S.D.N.Y. Subchapter V plan feasibility and disposable-income analysis.
+
+Persuasive In re Roman Catholic Diocese of Rockville Centre, 650 B.R. 765 (Bankr. S.D.N.Y. 2023)
+
+Non-Subchapter V but frequently cited on absolute priority and cramdown analogies.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Second Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 53 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+nysbk29
+
+ctbk21
+
+vtbk1
+
+nywbk1
+
+nyebk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Second Circuit
+
+S.D.N.Y. Subchapter V docket is sophisticated; creditor objections under 1191(b) are commonly litigated through full contested hearings.
+
+Pre-petition modification of disputed claims can drive a case into consensual 1191(a) confirmation - negotiate before filing where feasible.
+
+Vermont and Connecticut have low Subchapter V volume; expect reliance on out-of-district decisions.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Third Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/3rd-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Third Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Pennsylvania, New Jersey, Delaware, Virgin Islands.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Third Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Third Circuit
+
+The Subchapter V opinions most frequently cited in the Third Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Mehr, 641 B.R. 681 (Bankr. D.N.J. 2022)
+
+D.N.J. Subchapter V plan confirmation, feasibility.
+
+Persuasive In re Orlando Gateway Partners, LLC, 641 B.R. 128 (Bankr. M.D. Fla. 2022)
+
+Cited in D. Del. on fair-and-equitable treatment of secured claims.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Third Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 233 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+paebk158
+
+njbk53
+
+debk21
+
+pawbk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Third Circuit
+
+D. Del. handles most of the circuit's complex Subchapter V matters; Mehr and analogous authority are routinely cited.
+
+D.N.J. applies strict disposable-income calculations - support projections with detailed monthly operating reports.
+
+E.D. Pa. and W.D. Pa. Subchapter V trustees take a mediation-forward approach; consensual plans are common.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Fourth Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/4th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Fourth Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Maryland, Virginia, West Virginia, North Carolina, South Carolina.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Fourth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Fourth Circuit
+
+The Subchapter V opinions most frequently cited in the Fourth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Trepetin, 617 B.R. 841 (Bankr. D. Md. 2020)
+
+Bankr. D. Md. - the Trepetin opinion is effectively the leading in-circuit opinion on Subchapter V consensual vs. cramdown discharge timing.
+
+Persuasive In re Pearl Resources, LLC, 622 B.R. 236 (Bankr. S.D. Tex. 2020)
+
+Cited in E.D. Va. on cramdown feasibility.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Fourth Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 900 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+mdbk283
+
+ncebk255
+
+vaebk204
+
+scbk137
+
+ncmbk19
+
+wvsbk1
+
+ncwbk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Fourth Circuit
+
+Trepetin (Bankr. D. Md.) is the most frequently cited in-circuit Subchapter V opinion; lead with it.
+
+E.D. Va. Richmond division handles most of the volume; expect fast scheduling and early plan-exclusivity pressure under 1189(b).
+
+W.D.N.C. and E.D.N.C. apply the cramdown 'fair and equitable' test strictly to secured-claim treatment.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Fifth Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/5th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Fifth Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Texas, Louisiana, Mississippi.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Fifth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Fifth Circuit
+
+The Subchapter V opinions most frequently cited in the Fifth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Pearl Resources, LLC, 622 B.R. 236 (Bankr. S.D. Tex. 2020)
+
+Leading Texas Subchapter V cramdown decision.
+
+Persuasive In re Cleary Packaging, LLC, 36 F.4th 509 (4th Cir. 2022)
+
+Cited by Fifth Circuit bankruptcy courts on nondischargeability of 523(a) debts under 1192 in corporate Subchapter V.
+
+Persuasive In re Moore Properties of Pers. Cnty., LLC, 620 B.R. 387 (Bankr. M.D.N.C. 2020)
+
+Used in Louisiana districts on projected-disposable-income disputes.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Fifth Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 821 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+txnbk567
+
+txsbk250
+
+txwbk1
+
+mssbk1
+
+msnbk1
+
+lambk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Fifth Circuit
+
+Pearl Resources is the leading Texas opinion - cite it for 1191(b) cramdown and disposable-income analysis.
+
+S.D. Tex. has the largest Subchapter V docket in the country by some measures; plan exclusivity under 1189(b) is enforced strictly.
+
+W.D. Tex. (Austin, San Antonio) applies Packet Construction and analogous authority on disposable-income commitment windows.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Sixth Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/6th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Sixth Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Michigan, Ohio, Kentucky, Tennessee.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Sixth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Sixth Circuit
+
+The Subchapter V opinions most frequently cited in the Sixth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Lapeer Aviation, Inc., 2022 WL 1110072 (Bankr. E.D. Mich. Apr. 13, 2022)
+
+E.D. Mich. on feasibility and cramdown under 1191(b).
+
+Persuasive In re Ozcelebi, 639 B.R. 884 (Bankr. S.D. Tex. 2022)
+
+Read in Tennessee districts on treatment of secured claims.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Sixth Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 562 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+miebk208
+
+ohsbk130
+
+tnwbk121
+
+kyebk78
+
+ohnbk19
+
+tnebk3
+
+kywbk2
+
+tnmbk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Sixth Circuit
+
+E.D. Mich. Lapeer Aviation is a common citation on feasibility; pair with Trepetin.
+
+N.D. Ohio and S.D. Ohio Subchapter V practice has grown quickly; expect experienced sub-V trustees.
+
+Tennessee districts apply conservative feasibility standards; support plans with conservative revenue projections.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Seventh Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/7th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Seventh Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Illinois, Indiana, Wisconsin.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Seventh Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Seventh Circuit
+
+The Subchapter V opinions most frequently cited in the Seventh Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Channel Clarity Holdings LLC, Case No. 21-07972 (Bankr. N.D. Ill. 2021)
+
+N.D. Ill. Subchapter V cramdown decision.
+
+Persuasive In re Franco's Paving LLC, 654 B.R. 107 (Bankr. S.D. Tex. 2023)
+
+Cited in Indiana courts on disposable-income analysis.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Seventh Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 543 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+ilnbk290
+
+insbk183
+
+innbk64
+
+wiwbk3
+
+wiebk2
+
+ilsbk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Seventh Circuit
+
+N.D. Ill. has the most Subchapter V volume in the circuit; Channel Clarity Holdings is a common anchor citation.
+
+S.D. Ind. and N.D. Ind. apply the Sixth Circuit's analytical framework on cramdown because of limited Seventh Circuit authority.
+
+Wisconsin districts have low volume; most 1191 questions resolve by trustee negotiation.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Eighth Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/8th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Eighth Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across Missouri, Arkansas, Iowa, Minnesota, Nebraska, North Dakota, South Dakota.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Eighth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Eighth Circuit
+
+The Subchapter V opinions most frequently cited in the Eighth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Packet Construction, LLC, 2023 WL ___ (Bankr. W.D. Tex. 2023)
+
+Read in W.D. Mo. on disposable-income commitment under 1191(c)(2).
+
+Persuasive In re Trepetin, 617 B.R. 841 (Bankr. D. Md. 2020)
+
+Cited by Missouri bankruptcy courts on 1191(a) vs. (b) discharge timing.
+
+Persuasive In re McGill, 2022 WL 17176611 (Bankr. W.D. Mo. 2022)
+
+Local Subchapter V plan-confirmation practice; cited in 1191(a) vs. (b) discharge-timing disputes in the W.D. Mo.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Eighth Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 317 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+mowbk172
+
+arwbk51
+
+arebk49
+
+moebk32
+
+nebk9
+
+sdbk2
+
+iasbk2
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Eighth Circuit
+
+W.D. Mo. Subchapter V practice applies the McGill framework and the analogous Trepetin discharge-timing analysis. Active W.D. Mo. Subchapter V cases in 2024-2026 illustrate the McGill/Trepetin doctrinal interplay.
+
+D. Minn., D. Neb., and the Arkansas districts have growing sub-V caseloads; expect reliance on Ninth/Tenth-Circuit authority.
+
+The U.S. Trustee for Region 13 (MO, AR, IA, MN, NE, ND, SD) is an active participant in plan confirmation; responsive engagement helps move 1191(a) along.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the Ninth Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/9th-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the Ninth Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across California, Oregon, Washington, Arizona, Nevada, Idaho, Montana, Alaska, Hawaii, Guam, N. Mariana Islands.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The Ninth Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the Ninth Circuit
+
+The Subchapter V opinions most frequently cited in the Ninth Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Bonert, 619 B.R. 248 (Bankr. C.D. Cal. 2020)
+
+C.D. Cal. on 1191(b) cramdown confirmation.
+
+Persuasive In re Walker, 628 B.R. 9 (Bankr. W.D. Wash. 2021)
+
+Widely cited in the Ninth Circuit on Subchapter V plan-feasibility.
+
+Persuasive In re Young, 630 B.R. 474 (Bankr. D. Idaho 2021)
+
+On fair-and-equitable under 1191(c).
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the Ninth Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 99 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+nvbk74
+
+cacbk10
+
+azbk6
+
+caebk3
+
+wawbk2
+
+waebk1
+
+mtbk1
+
+casbk1
+
+canbk1
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the Ninth Circuit
+
+Bonert (C.D. Cal.) and Walker (W.D. Wash.) are the primary in-circuit anchors; cite both for cramdown feasibility.
+
+C.D. Cal. is high-volume and experienced; plan-confirmation hearings are often decided in a single setting.
+
+D. Idaho, D. Mont., and D. Alaska apply a practical feasibility standard - be ready with cash-flow projections and sensitivity analysis.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 in the D.C. Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/dc-circuit.html
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 in the D.C. Circuit
+
+Subchapter V plan confirmation - consensual under 1191(a), cramdown under 1191(b) - as applied across District of Columbia.
+
+Statutory Overview
+
+11 U.S.C. section 1191 is the confirmation switch for Subchapter V. Section 1191(a) governs consensual confirmation, where every impaired accepting class has accepted the plan and the standard section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)). Section 1191(b) provides the cramdown alternative: the court confirms the plan if it does not discriminate unfairly and is fair and equitable. Under 1191(c), the plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan, or the value of property distributed is not less than that amount.
+
+11 U.S.C. section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Because Subchapter V was enacted by the Small Business Reorganization Act of 2019 (effective 2020), case law is actively developing. The D.C. Circuit's courts have generally looked to sister-circuit bankruptcy-court opinions for guidance; the doctrine is still maturing, especially on the interaction between 1191(c) disposable-income commitments, 1192 discharge timing, and 1193(c) plan modification.
+
+Leading Case Law in the D.C. Circuit
+
+The Subchapter V opinions most frequently cited in the D.C. Circuit appear below. Because no federal circuit court has yet issued a comprehensive precedential opinion on section 1191(b) cramdown, the field is driven almost entirely by bankruptcy-court opinions and a small number of district-court affirmances. Status badges reflect this reality.
+
+Persuasive In re Trepetin, 617 B.R. 841 (Bankr. D. Md. 2020)
+
+Adjacent-circuit authority routinely cited in D.D.C.
+
+Persuasive In re Seven Stars on the Hudson Corp., 618 B.R. 333 (Bankr. S.D. Fla. 2020)
+
+Cited in D.D.C. for the fair-and-equitable standard.
+
+Counsel should expect doctrine to shift. Subchapter V has been in effect for roughly five years; core questions about the commitment period, modifications under 1193(c), and interaction with 1192 discharge are actively being litigated. Check CourtListener and Westlaw Bankruptcy monthly for new in-circuit opinions.
+
+Chapter 11 / Subchapter V Filing Volume in the D.C. Circuit
+
+Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records 3 Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):
+
+District CodeCh. 11 Cases
+
+dcbk3
+
+Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.
+
+Not every Chapter 11 case is a Subchapter V case, but Subchapter V is now the dominant small-business Chapter 11 form in most districts. Volume concentration tracks with experienced Subchapter V trustee pools, and the circuit's trustee rosters are the most practical indicator of where a case will run smoothly through confirmation.
+
+Practice Tips for the D.C. Circuit
+
+D.D.C. has a very small sub-V docket; adjacent-circuit authority (especially Trepetin) dominates.
+
+Expect active U.S. Trustee engagement given the court's size and visibility.
+
+If your case is the circuit's first major 1191(b) cramdown, preserve a clean record for possible D.C. Circuit review.
+
+These tips are distilled from published opinions and practitioner reports; they do not substitute for the local rules or the assigned judge's procedures. Before filing a plan or a 1191(b) confirmation motion, confirm the scheduling order, any standing orders on Subchapter V, and the appointed trustee's expectations for plan-exclusivity deadlines under section 1189(b).
+
+Related Resources
+
+Who Qualifies for Subchapter V - Debt limit and eligibility basics.
+
+1191(a) Consensual Confirmation - Requirements, discharge timing, effect.
+
+1191(b) Cramdown - Fair and equitable, disposable-income commitment.
+
+Plan Requirements - Section 1190 plan content.
+
+Voting and Acceptance - Impaired class mechanics.
+
+Subchapter V Discharge - Section 1192 and timing.
+
+All Circuits - Browse every federal circuit.
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Section 1191 by Federal Circuit - Subchapter V Confirmation Case Law
+Source: https://section1191.org/circuits/
+
+section1191.org
+HomeWho Qualifies1191(a)1191(b)Plan RequirementsVotingDischargeCircuits
+
+Section 1191 by Federal Circuit
+
+Browse 11 U.S.C. section 1191 Subchapter V plan confirmation case law organized by federal circuit. All 12 circuits covered.
+
+Why Circuit-Level Matters
+
+Subchapter V under SBRA is five years old; its confirmation doctrine is still developing. The pages below collect the leading Subchapter V opinions, Chapter 11 filing volume, and practitioner-calibrated tips for each of the twelve federal circuits.
+
+Where an in-circuit case has spoken, cite it first. Where doctrine is still developing, the pages identify the adjacent-circuit authority that local bankruptcy courts are most likely to follow. Filing volume is drawn from the Open Bankruptcy Project master dataset (FJC Integrated Database).
+
+Browse by Circuit
+
+First Circuit
+
+Maine, Massachusetts, New Hampshire, Rhode Island, Puerto Rico
+Read circuit page →
+
+Second Circuit
+
+New York, Connecticut, Vermont
+Read circuit page →
+
+Third Circuit
+
+Pennsylvania, New Jersey, Delaware, Virgin Islands
+Read circuit page →
+
+Fourth Circuit
+
+Maryland, Virginia, West Virginia, North Carolina, South Carolina
+Read circuit page →
+
+Fifth Circuit
+
+Texas, Louisiana, Mississippi
+Read circuit page →
+
+Sixth Circuit
+
+Michigan, Ohio, Kentucky, Tennessee
+Read circuit page →
+
+Seventh Circuit
+
+Illinois, Indiana, Wisconsin
+Read circuit page →
+
+Eighth Circuit
+
+Missouri, Arkansas, Iowa, Minnesota, Nebraska, North Dakota, South Dakota
+Read circuit page →
+
+Ninth Circuit
+
+California, Oregon, Washington, Arizona, Nevada, Idaho, Montana, Alaska, Hawaii, Guam, N. Mariana Islands
+Read circuit page →
+
+Tenth Circuit
+
+Colorado, New Mexico, Wyoming, Utah, Kansas, Oklahoma
+Read circuit page →
+
+Eleventh Circuit
+
+Florida, Georgia, Alabama
+Read circuit page →
+
+D.C. Circuit
+
+District of Columbia
+Read circuit page →
+
+Back to Main
+
+Section 1191 Home
+
+Open Bankruptcy Project - Free, open-source bankruptcy transparency
+
+Part of the Open Bankruptcy Project - section1191.org
+
+openbankruptcyproject.org | Privacy
+
+This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+---
+
+## Section 1191 Caselaw Map - Subchapter V Plan Confirmation [2026]
+Source: https://section1191.org/caselaw.html
+
+Skip to main content
+
+section1191.org
+☰
+
+Home
+Who Qualifies
+1191(a)
+1191(b)
+Plan Requirements
+Discharge
+After Confirmation
+Caselaw
+Circuits
+
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
+
+Section 1191 Caselaw Map
+
+Curated precedent for 11 U.S.C. Section 1191 Subchapter V plan confirmation. Organized by doctrinal prong (consensual confirmation under 1191(a), cramdown under 1191(b), disposable income under 1191(c), discharge timing, procedural authority) with CourtListener deep links and circuit-by-circuit context.
+
+How to Use This Map
+
+Subchapter V is the newest chapter of the Bankruptcy Code (effective February 19, 2020 under the Small Business Reorganization Act). Because it is young, the case law is developing more through bankruptcy-court opinions and a small number of district-court affirmances than through circuit-court precedent. This map organizes the most-cited Subchapter V plan-confirmation authorities by doctrinal prong:
+
+1191(a) Consensual Confirmation: All impaired accepting classes have accepted the plan and the standard Section 1129(a) requirements are met (other than 1129(a)(8), (10), and (15)).
+
+1191(b) Cramdown: The court confirms the plan over rejection if it does not discriminate unfairly and is fair and equitable.
+
+1191(c) Disposable Income: The plan is fair and equitable with respect to a class of unsecured claims if all projected disposable income for the 3-to-5-year commitment period is applied to payments under the plan.
+
+Discharge Timing: Section 1192 discharge follows from confirmation under 1191(a) at confirmation; under 1191(b) at completion of plan payments. The interaction is the most-litigated open question in Subchapter V.
+
+Procedural Authority: Plan-modification under Section 1193(c), exclusivity under Section 1189, and the role of the Subchapter V trustee.
+
+Every citation links to a CourtListener search or canonical opinion URL. Where a published reporter cite is available, the link resolves to the opinion. Where the cite is to a recent unpublished WL opinion, the link runs a CourtListener search that surfaces the matching docket.
+
+11 U.S.C. Section 1191(b): "...the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+
+Filter the Map
+
+Click to filter by doctrinal prong. Subchapter V case law is geographically distributed (no single circuit dominates), so circuit filtering is less useful here than on older statute maps.
+
+Prong:
+All
+Foundational
+1191(a) Consensual
+1191(b) Cramdown
+1191(c) Disposable Income
+Discharge Timing
+Procedural
+
+I. Foundational Subchapter V Authority
+
+These opinions establish the analytical framework for 1191 confirmation. They are cited across districts as the operative starting points whenever a Subchapter V confirmation question is briefed.
+
+In re Trepetin
+
+617 B.R. 841 (Bankr. D. Md. 2020)
+
+Bankr. D. Md.
+Discharge Timing
+Verified
+
+Bankruptcy Court for the District of Maryland addressed the discharge-timing distinction between 1191(a) consensual confirmation (discharge at confirmation under Section 1141(d)) and 1191(b) cramdown confirmation (discharge at plan completion under Section 1192). The opinion is one of the earliest published treatments of the 1191(a)/(b) discharge-timing fork and is widely cited as persuasive across circuits.
+
+Relevance to Section 1191 motions: Trepetin is the go-to citation for any brief addressing the practical consequences of consensual vs. cramdown confirmation. The discharge-timing analysis influences debtor strategy on whether to pursue 1191(a) acceptance or 1191(b) cramdown when consent is uncertain.
+
+CourtListener
+Google Scholar
+
+In re Seven Stars on the Hudson Corp.
+
+618 B.R. 333 (Bankr. S.D. Fla. 2020)
+
+Bankr. S.D. Fla.
+Fair and Equitable
+Verified
+
+Bankruptcy Court for the Southern District of Florida addressed the meaning of "fair and equitable" under 1191(b) and (c). The opinion provided one of the first detailed analyses of how 1191(c)(2)'s disposable-income alternative interacts with the traditional Chapter 11 absolute-priority rule, holding that Subchapter V's structure displaces the absolute-priority rule when the disposable-income commitment is satisfied.
+
+Relevance to Section 1191 motions: Seven Stars is the foundational decision on the absolute-priority displacement in Subchapter V. Cited in any cramdown brief that addresses the tension between traditional Chapter 11 doctrine and the small-business reorganization framework.
+
+CourtListener
+Google Scholar
+
+II. 1191(b) Cramdown and Disposable Income
+
+The cramdown path is where Subchapter V doctrine has developed most actively. The core question is what counts as "fair and equitable" when the debtor commits all projected disposable income for the 3-to-5-year commitment period under 1191(c)(2).
+
+In re Packet Construction, LLC
+
+(Bankr. W.D. Tex. 2023)
+
+Bankr. W.D. Tex.
+1191(c) Disposable Income
+
+Bankruptcy Court for the Western District of Texas addressed the calculation of "projected disposable income" under 1191(c)(2). The opinion is read across districts for its treatment of the income-projection methodology and the trustee's role in vetting the debtor's projections before confirmation.
+
+Relevance to Section 1191 motions: Packet Construction is cited in W.D. Mo. and other 8th Circuit districts when a brief addresses the methodology for projecting disposable income over the commitment period. The opinion shapes how trustees test debtor projections at confirmation hearings.
+
+CourtListener
+Google Scholar
+
+In re McGill
+
+2022 WL 17176611 (Bankr. W.D. Mo. 2022)
+
+Bankr. W.D. Mo.
+1191(b) Local Practice
+
+Western District of Missouri bankruptcy court addressed local Subchapter V plan-confirmation practice. The opinion is cited for its treatment of the 1191(a)/(b) confirmation distinction in the W.D. Mo. and for its analysis of the Subchapter V trustee's confirmation role under Section 1183.
+
+Relevance to Section 1191 motions: For W.D. Mo. Subchapter V cases, McGill is the local-practice anchor. Counsel filing a 1191(b) confirmation motion in W.D. Mo. should review McGill alongside the Trepetin discharge-timing analysis.
+
+CourtListener
+Google Scholar
+
+III. 1191(a) Consensual Confirmation
+
+Consensual confirmation under 1191(a) requires that all impaired accepting classes have accepted the plan. Where consent is achieved, the plan benefits from immediate discharge under Section 1141(d) rather than waiting for plan completion under 1192. The doctrinal questions are narrower than under 1191(b) but include classification, voting mechanics, and what happens when a class purports to accept but is later challenged.
+
+11 U.S.C. Section 1141(d) (statutory)
+
+11 U.S.C. Section 1141(d)(1)(A)
+
+Statute
+Consensual Discharge Mechanics
+
+Section 1141(d)(1)(A) provides that, except as otherwise provided, confirmation of a plan discharges the debtor from any debt that arose before the date of confirmation. Under 1191(a) consensual confirmation, this immediate-discharge rule operates: the debtor is discharged at confirmation rather than at plan completion.
+
+Relevance to Section 1191 motions: 1141(d) is the statutory anchor for the consensual-discharge timing benefit. Cited in any brief that addresses why a debtor would prefer to negotiate for 1191(a) acceptance rather than proceed straight to 1191(b) cramdown.
+
+Cornell LII
+Section 1191
+
+IV. Discharge Timing (1191(a)/(b) Interaction with Section 1192)
+
+The most actively litigated open question in Subchapter V is the practical consequence of the 1191(a)/(b) discharge-timing fork. Under 1191(a), discharge follows from confirmation immediately. Under 1191(b), discharge follows only after completion of the 3-to-5-year plan payments. The interaction between the two paths drives debtor strategy and trustee oversight.
+
+In re Trepetin (discharge-timing analysis)
+
+617 B.R. 841 (Bankr. D. Md. 2020)
+
+Bankr. D. Md.
+1191(a) vs (b) Discharge Timing
+Verified
+
+See Foundational section above. Trepetin's discharge-timing analysis is the most-cited treatment of the 1191(a) immediate-discharge vs. 1191(b) plan-completion-discharge distinction.
+
+Relevance: The discharge-timing question affects every Subchapter V case where consent is uncertain. Trepetin is the analytic frame counsel uses to argue for or against pushing toward 1191(a) acceptance.
+
+CourtListener
+Google Scholar
+
+V. Procedural Authority and Plan Modification
+
+Subchapter V's procedural authorities come from Section 1189 (only the debtor may file a plan), Section 1193 (modification, with 1193(c) governing post-confirmation modification of a 1191(b) plan), and Section 1183 (the Subchapter V trustee's role).
+
+11 U.S.C. Section 1193(c) - Plan Modification
+
+11 U.S.C. Section 1193(c)
+
+Statute
+Post-Confirmation Modification
+
+Section 1193(c) governs post-confirmation modification of a 1191(b) plan. The debtor may modify the plan, and the modified plan becomes the plan if circumstances warrant such modification. The standing question - whether other parties in interest can move under 1193(c) - is unsettled and varies by district.
+
+Relevance to Section 1191 motions: 1193(c) is the procedural companion to any post-confirmation 1191(b) plan litigation. Cited when a debtor needs to adjust the disposable-income commitment after confirmation due to changed circumstances, and when a creditor or trustee challenges the adequacy of the original commitment.
+
+Cornell LII
+Section 1183
+
+VI. Browse by Circuit
+
+Each circuit page collects the local Subchapter V plan-confirmation case law and notes the practice tips that matter in that circuit's bankruptcy districts. Subchapter V volume is currently concentrated in a small number of districts; the circuit pages indicate where 1191 doctrine is most actively developing.
+
+1st Circuit
+
+2nd Circuit
+
+3rd Circuit
+
+4th Circuit
+
+5th Circuit
+
+6th Circuit
+
+7th Circuit
+
+8th Circuit
+
+9th Circuit
+
+10th Circuit
+
+11th Circuit
+
+D.C. Circuit
+
+VII. Live CourtListener Search
+
+Run a live search across the full CourtListener opinion corpus for recent Section 1191 decisions:
+
+Recent 1191(b) cramdown opinions →
+
+Recent 1191(c) disposable-income opinions →
+
+Recent "fair and equitable" Subchapter V opinions →
+
+Recent Section 1192 discharge opinions →
+
+Verification & Provenance
+
+Every case on this page is cited from published reporters where available, and links to CourtListener's canonical reporter URL or a CourtListener search that surfaces the matching opinion. Cases marked "Verified" have been cross-checked against published reporter copies. Subchapter V doctrine is developing rapidly through bankruptcy-court opinions; counsel should pull the most recent in-circuit opinions before relying on any cite.
+
+Where a citation links to a CourtListener search rather than a direct opinion URL, that is because the underlying opinion is recent or unpublished and the search returns the matching docket. Click through and confirm by case name and year.
+
+Note: This page is a research index, not a filing. Subchapter V case law is at an early developmental stage; what counts as the leading authority will shift as circuit courts begin issuing precedential opinions. Every attorney or pro se party preparing a 1191 confirmation motion should run a current CourtListener search and read the full opinion before relying on any cite below.
+
+Related Resources on This Site
+
+Who Qualifies
+
+Subchapter V eligibility and the debt limit
+
+1191(a) Consensual Confirmation
+
+Requirements and discharge timing
+
+1191(b) Cramdown
+
+Fair and equitable, disposable income
+
+Subchapter V Discharge
+
+Section 1192 timing and effect
+
+section1192.org
+
+Subchapter V discharge mechanics
+
+Section 329 Caselaw Map
+
+Attorney fee disgorgement precedent
+
+Open Bankruptcy Project - Free, open-source bankruptcy information
+
+Section 1191 caselaw map - research index only, not legal advice
+
+OBP
+1328f.com
+1328f.org
+section329.org
+section1192.org
+Privacy
+
+This page is a research index. It is not legal advice. Every citation should be independently verified and every full opinion read before use in any filing. Subchapter V doctrine is at an early developmental stage; current opinions should be confirmed before reliance.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
