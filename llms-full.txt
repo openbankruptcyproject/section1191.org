@@ -645,7 +645,7 @@ Discharge timing: 1191(a): discharge upon confirmation. 1191(b): discharge after
 
 Who Qualifies?
 
-Aggregate noncontingent liquidated debts not exceeding $7,500,000
+Aggregate noncontingent liquidated debts not exceeding $3,424,000
 
 At least 50% from commercial or business activities
 
@@ -1537,7 +1537,7 @@ Home›Section 1191 Plan Confirmation›Subchapter V - Small Business Reorganiza
 
 Debt Limit
 
-Aggregate noncontingent, liquidated debts must not exceed $7.5 million (as extended by Congress). This includes both secured and unsecured debts. Contingent and unliquidated debts are excluded from the calculation.
+Aggregate noncontingent, liquidated debts must not exceed $3,424,000 (as adjusted April 1, 2025; the temporary $7.5 million limit expired June 21, 2024). This includes both secured and unsecured debts. Contingent and unliquidated debts are excluded from the calculation.
 
 Business Activity Requirement
 
@@ -1557,11 +1557,11 @@ The 50% requirement is calculated based on noncontingent, liquidated debts as of
 
 When to Choose Subchapter V Over Chapter 13
 
-Business owners with debts exceeding the Chapter 13 limit (currently $2,750,000 in secured and unsecured debts combined) may find Subchapter V to be their only reorganization option. Even below that threshold, Subchapter V offers advantages: no absolute priority rule (the debtor can retain equity without paying unsecured creditors in full), a dedicated Subchapter V trustee who acts as a facilitator rather than a liquidator, and no creditors' committee to negotiate with. The 90-day plan deadline also forces faster resolution than Chapter 13's often extended confirmation process.
+Business owners with debts exceeding the Chapter 13 limit (currently less than $526,700 in unsecured debts and less than $1,580,125 in secured debts) may find Subchapter V to be their only reorganization option. Even below those thresholds, Subchapter V offers advantages: no absolute priority rule (the debtor can retain equity without paying unsecured creditors in full), a dedicated Subchapter V trustee who acts as a facilitator rather than a liquidator, and no creditors' committee to negotiate with. The 90-day plan deadline also forces faster resolution than Chapter 13's often extended confirmation process.
 
 Debt Limit History
 
-The Small Business Reorganization Act of 2019 originally set the Subchapter V debt limit at $2,725,625. The CARES Act of 2020 temporarily raised it to $7.5 million to help businesses affected by the pandemic. Congress has extended this higher limit multiple times. As of 2024, the limit remains at $7.5 million. Any future changes to this threshold will affect who qualifies. For information on how Subchapter V plans are discharged, see the Section 1192 discharge guide.
+The Small Business Reorganization Act of 2019 originally set the Subchapter V debt limit at $2,725,625. The CARES Act of 2020 temporarily raised it to $7.5 million to help businesses affected by the pandemic. Congress extended this higher limit, most recently in the Bankruptcy Threshold Adjustment and Technical Corrections Act of 2022, but it expired on June 21, 2024. The limit reverted to the inflation-adjusted SBRA amount, currently $3,424,000 (as adjusted April 1, 2025; the figure adjusts every three years). Any future changes to this threshold will affect who qualifies. For information on how Subchapter V plans are discharged, see the Section 1192 discharge guide.
 
 Learn about Sub V discharge
 
